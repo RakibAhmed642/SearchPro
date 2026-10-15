@@ -1,5 +1,6 @@
 # SearchPro — Advanced Client-Side File Search & OSINT Reconnaissance Engine
 
+
 <div align="center">
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
