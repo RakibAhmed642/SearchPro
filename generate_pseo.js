@@ -711,7 +711,7 @@ const rssXML = `<?xml version="1.0" encoding="UTF-8"?>
   <channel>
     <title>SearchPro - PSEO Search Guides</title>
     <link>${domain}/</link>
-    <description>Latest PSEO guides for open directories, public Google Drive files, and cloud storage dorks. Developed by lofedev (Sturio Ecosystem).</description>
+    <description>Latest PSEO guides for open directories, public Google Drive files, and cloud storage dorks. Developed by Rakib Ahmed (Sturio Ecosystem).</description>
     <language>en-us</language>
     <atom:link href="${domain}/feed.xml" rel="self" type="application/rss+xml" />
     ${rssItems}
@@ -730,6 +730,8 @@ const sitemapUrls = [
     { loc: `${domain}/terms.html`, priority: '0.5', changefreq: 'monthly' },
     { loc: `${domain}/about.html`, priority: '0.6', changefreq: 'monthly' },
     { loc: `${domain}/404.html`, priority: '0.3', changefreq: 'monthly' },
+    { loc: `${domain}/llms.txt`, priority: '0.8', changefreq: 'weekly' },
+    { loc: `${domain}/llms-full.txt`, priority: '0.7', changefreq: 'weekly' },
     ...pseoPages.map(p => ({
         loc: `${domain}/pages/${p.slug}`,
         priority: '0.8',

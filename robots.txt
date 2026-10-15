@@ -4,6 +4,31 @@ Allow: /
 Allow: /pages/
 Allow: /index.html
 Allow: /omnisearch_pro_minimal.html
+Allow: /llms.txt
+Allow: /llms-full.txt
 
-# XML Sitemap Location
+# Explicitly allow AI and Search Engine Crawlers
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+# LLM Discovery Standards (https://llmstxt.org/)
+# LLMs-Text: https://search.sturio.io/llms.txt
+# LLMs-Full: https://search.sturio.io/llms-full.txt
+
+# Sitemaps
 Sitemap: https://search.sturio.io/sitemap.xml
