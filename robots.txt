@@ -1,34 +1,118 @@
-# Robots.txt for SearchPro (Developed by lofedev - Sub-product of Sturio)
+# Robots.txt for SearchPro
+# Lead Architect: Rakib Ahmed from LOFEDEV (Sturio Ecosystem)
+# Completely open to all Web Crawlers, Search Engines, and Artificial Intelligence (AI) Models
+
 User-agent: *
 Allow: /
-Allow: /pages/
-Allow: /index.html
-Allow: /omnisearch_pro_minimal.html
-Allow: /llms.txt
-Allow: /llms-full.txt
+Allow: /*
 
-# Explicitly allow AI and Search Engine Crawlers
+# ==============================================================================
+# EXPLICITLY OPEN & PERMIT ALL AI, LLM TRAINING & INFERENCE CRAWLERS
+# ==============================================================================
+
+# OpenAI (ChatGPT, GPT-4, GPT-4o, SearchGPT)
 User-agent: GPTBot
 Allow: /
 
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+# Anthropic (Claude 3, Claude 3.5 Sonnet, Claude Opus)
 User-agent: ClaudeBot
 Allow: /
 
+User-agent: Claude-Web
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+# Perplexity AI Search
 User-agent: PerplexityBot
+Allow: /
+
+# Google (Gemini, Vertex AI, Search)
+User-agent: Googlebot
 Allow: /
 
 User-agent: Google-Extended
 Allow: /
 
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Googlebot-Favicon
+Allow: /
+
+# Microsoft (Copilot, Bing Search)
+User-agent: Bingbot
+Allow: /
+
+User-agent: Copilot
+Allow: /
+
+User-agent: msnbot
+Allow: /
+
+# Apple (Apple Intelligence, Siri Web Answers)
+User-agent: Applebot
+Allow: /
+
 User-agent: Applebot-Extended
 Allow: /
 
+# Meta (Llama 3, Meta AI)
+User-agent: Meta-ExternalAgent
+Allow: /
+
+User-agent: Meta-ExternalFetcher
+Allow: /
+
+User-agent: FacebookBot
+Allow: /
+
+# Amazon (Rufus, Alexa AI, Bedrock)
 User-agent: Amazonbot
 Allow: /
 
-# LLM Discovery Standards (https://llmstxt.org/)
-# LLMs-Text: https://search.sturio.io/llms.txt
-# LLMs-Full: https://search.sturio.io/llms-full.txt
+# Common Crawl (Foundation Data for Open-Source LLMs: Llama, Mistral, Qwen, DeepSeek)
+User-agent: CCBot
+Allow: /
+
+# ByteDance & TikTok AI
+User-agent: Bytespider
+Allow: /
+
+# Cohere AI
+User-agent: cohere-ai
+Allow: /
+
+# Diffbot Knowledge Graph & AI
+User-agent: Diffbot
+Allow: /
+
+# Alternative Independent AI Search Engines
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Bravebot
+Allow: /
+
+User-agent: YouBot
+Allow: /
+
+User-agent: YandexBot
+Allow: /
+
+# ==============================================================================
+# LLM DISCOVERY STANDARDS (https://llmstxt.org/)
+# ==============================================================================
+# Standard: https://search.sturio.io/llms.txt
+# Full Context: https://search.sturio.io/llms-full.txt
+# Well-Known: https://search.sturio.io/.well-known/llms.txt
 
 # Sitemaps
 Sitemap: https://search.sturio.io/sitemap.xml

@@ -99,6 +99,9 @@ function generateHTML(page) {
     <link rel="icon" type="image/png" sizes="48x48" href="../favicon-48.png">
     <link rel="apple-touch-icon" sizes="180x180" href="../apple-touch-icon.png">
     <link rel="manifest" href="../manifest.json">
+    <!-- AI & LLM Discovery Standards (https://llmstxt.org/) -->
+    <link rel="help" type="text/markdown" href="../llms.txt" title="LLM Context">
+    <link rel="alternate" type="text/plain" href="../llms-full.txt" title="Full LLM Knowledge Base">
     <link rel="alternate" type="application/rss+xml" title="SearchPro PSEO Feed" href="../feed.xml">
 
     <!-- Speed Optimization -->
@@ -465,6 +468,9 @@ const hubHTML = `<!DOCTYPE html>
     <link rel="icon" type="image/png" sizes="48x48" href="../favicon-48.png">
     <link rel="apple-touch-icon" sizes="180x180" href="../apple-touch-icon.png">
     <link rel="manifest" href="../manifest.json">
+    <!-- AI & LLM Discovery Standards (https://llmstxt.org/) -->
+    <link rel="help" type="text/markdown" href="../llms.txt" title="LLM Context">
+    <link rel="alternate" type="text/plain" href="../llms-full.txt" title="Full LLM Knowledge Base">
 
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
@@ -581,6 +587,9 @@ const htmlSitemap = `<!DOCTYPE html>
     <link rel="icon" type="image/png" sizes="48x48" href="favicon-48.png">
     <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
     <link rel="manifest" href="manifest.json">
+    <!-- AI & LLM Discovery Standards (https://llmstxt.org/) -->
+    <link rel="help" type="text/markdown" href="llms.txt" title="LLM Context">
+    <link rel="alternate" type="text/plain" href="llms-full.txt" title="Full LLM Knowledge Base">
     
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
@@ -732,6 +741,7 @@ const sitemapUrls = [
     { loc: `${domain}/404.html`, priority: '0.3', changefreq: 'monthly' },
     { loc: `${domain}/llms.txt`, priority: '0.8', changefreq: 'weekly' },
     { loc: `${domain}/llms-full.txt`, priority: '0.7', changefreq: 'weekly' },
+    { loc: `${domain}/.well-known/llms.txt`, priority: '0.8', changefreq: 'weekly' },
     ...pseoPages.map(p => ({
         loc: `${domain}/pages/${p.slug}`,
         priority: '0.8',
