@@ -1,0 +1,14 @@
+# System & Editor
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/
+
+# Node
+node_modules/
+npm-debug.log*
+
+# Scratch & Temporary build artifacts
+scratch/
+temp_*.html

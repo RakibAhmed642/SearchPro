@@ -1,0 +1,9 @@
+# Robots.txt for SearchPro (Developed by lofedev - Sub-product of Sturio)
+User-agent: *
+Allow: /
+Allow: /pages/
+Allow: /index.html
+Allow: /omnisearch_pro_minimal.html
+
+# XML Sitemap Location
+Sitemap: https://search.sturio.io/sitemap.xml

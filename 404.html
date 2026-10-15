@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-2J4P56JGT5"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-2J4P56JGT5');
+    </script>
+
+    <title>404 Page Not Found - SearchPro</title>
+    <meta name="description" content="The page or search guide you requested could not be found. Use SearchPro to locate open directories, public Google Drive files, and cloud storage links.">
+    <meta name="robots" content="noindex, follow">
+    <link rel="canonical" href="https://search.sturio.io/404.html">
+    <meta name="theme-color" content="#eab308">
+    <!-- Favicon & Search Indexing Icons -->
+    <link rel="icon" type="image/svg+xml" href="favicon.svg">
+    <link rel="alternate icon" type="image/x-icon" href="favicon.ico">
+    <link rel="icon" type="image/png" sizes="48x48" href="favicon-48.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+    <link rel="manifest" href="manifest.json"><script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+    <script>
+        tailwind.config = {
+            darkMode: 'class',
+            theme: {
+                extend: {
+                    fontFamily: { sans: ['Inter', 'sans-serif'] },
+                    colors: { brand: { 500: '#eab308', 600: '#ca8a04' }, darkBg: '#09090b', darkCard: '#18181b' }
+                }
+            }
+        }
+    </script>
+</head>
+<body class="bg-gray-50 text-gray-900 dark:bg-darkBg dark:text-gray-100 min-h-screen flex flex-col antialiased">
+    <!-- Navigation Header -->
+    <header class="w-full border-b border-gray-200 dark:border-zinc-800 bg-white/80 dark:bg-darkCard/80 backdrop-blur-md sticky top-0 z-30 px-4 py-3.5">
+        <div class="max-w-5xl mx-auto flex items-center justify-between">
+            <a href="index.html" class="text-xl font-bold tracking-tight text-gray-900 dark:text-white flex items-center gap-2">
+                Search<span class="text-brand-500">Pro</span> <span class="text-xs px-2 py-0.5 rounded-full bg-red-500/10 text-red-600 dark:text-red-400 font-semibold border border-red-500/20">404 Error</span>
+            </a>
+            <div class="flex items-center gap-3">
+                <button type="button" id="themeToggleBtn" class="p-2 rounded-full bg-gray-100 dark:bg-zinc-800 text-gray-600 dark:text-gray-300 hover:text-brand-500 transition-colors">
+                    <i class="fa-solid fa-moon text-sm"></i>
+                </button>
+                <a href="index.html" class="bg-brand-500 hover:bg-brand-600 text-white font-medium text-xs md:text-sm px-4 py-2 rounded-full transition-all shadow-sm flex items-center gap-2">
+                    <i class="fa-solid fa-house"></i> Main Engine
+                </a>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main 404 Hero Section -->
+    <main class="w-full max-w-3xl mx-auto px-4 py-16 flex-grow flex flex-col items-center justify-center text-center">
+        <!-- 404 Visual Icon Badge -->
+        <div class="relative mb-6">
+            <div class="w-24 h-24 rounded-3xl bg-amber-500/10 text-brand-500 flex items-center justify-center border border-amber-500/20 shadow-inner">
+                <i class="fa-solid fa-magnifying-glass-minus text-4xl"></i>
+            </div>
+            <span class="absolute -top-2 -right-2 px-2.5 py-1 rounded-full bg-red-500 text-white text-xs font-bold shadow-md animate-bounce">404</span>
+        </div>
+
+        <h1 class="text-4xl md:text-6xl font-extrabold text-gray-900 dark:text-white tracking-tight mb-3">
+            Page Not Found
+        </h1>
+        <p class="text-base md:text-lg text-gray-600 dark:text-gray-400 max-w-md mx-auto mb-8 leading-relaxed">
+            The requested page URL does not exist or has been moved. You can search for files directly using SearchPro below:
+        </p>
+
+        <!-- 404 Search Input Box -->
+        <form id="search404Form" class="w-full max-w-xl bg-white dark:bg-darkCard rounded-2xl shadow-lg border border-gray-200 dark:border-zinc-800 p-2.5 flex items-center gap-2 mb-10">
+            <i class="fa-solid fa-magnifying-glass text-gray-400 pl-3 text-lg"></i>
+            <input type="text" id="query404Input" placeholder="Enter keywords to search files (e.g. movies, pdf, iso)..." autocomplete="off" class="flex-grow bg-transparent text-sm md:text-base outline-none text-gray-900 dark:text-white font-medium">
+            <button type="submit" class="bg-brand-500 hover:bg-brand-600 text-white text-sm font-semibold px-5 py-2.5 rounded-xl transition-all flex-shrink-0 flex items-center gap-2">
+                Search <i class="fa-solid fa-arrow-right text-xs"></i>
+            </button>
+        </form>
+
+        <!-- Quick Links Grid -->
+        <div class="w-full grid grid-cols-1 sm:grid-cols-3 gap-4 text-left">
+            <a href="index.html" class="p-4 rounded-xl bg-white dark:bg-darkCard border border-gray-200 dark:border-zinc-800 hover:border-brand-500 dark:hover:border-brand-500 transition-all flex flex-col justify-between group">
+                <div>
+                    <div class="w-8 h-8 rounded-lg bg-amber-500/10 text-brand-500 flex items-center justify-center mb-2">
+                        <i class="fa-solid fa-sliders text-sm"></i>
+                    </div>
+                    <h3 class="font-bold text-sm text-gray-900 dark:text-white group-hover:text-brand-500 transition-colors">Main Search Engine</h3>
+                    <p class="text-xs text-gray-500 dark:text-gray-400 mt-1">Full Google Dork & Open Directory Finder tool.</p>
+                </div>
+            </a>
+
+            <a href="pages/index.html" class="p-4 rounded-xl bg-white dark:bg-darkCard border border-gray-200 dark:border-zinc-800 hover:border-brand-500 dark:hover:border-brand-500 transition-all flex flex-col justify-between group">
+                <div>
+                    <div class="w-8 h-8 rounded-lg bg-amber-500/10 text-brand-500 flex items-center justify-center mb-2">
+                        <i class="fa-solid fa-book-atlas text-sm"></i>
+                    </div>
+                    <h3 class="font-bold text-sm text-gray-900 dark:text-white group-hover:text-brand-500 transition-colors">PSEO Guides Hub</h3>
+                    <p class="text-xs text-gray-500 dark:text-gray-400 mt-1">Browse 50+ specialized file search tutorials.</p>
+                </div>
+            </a>
+
+            <a href="sitemap.html" class="p-4 rounded-xl bg-white dark:bg-darkCard border border-gray-200 dark:border-zinc-800 hover:border-brand-500 dark:hover:border-brand-500 transition-all flex flex-col justify-between group">
+                <div>
+                    <div class="w-8 h-8 rounded-lg bg-amber-500/10 text-brand-500 flex items-center justify-center mb-2">
+                        <i class="fa-solid fa-sitemap text-sm"></i>
+                    </div>
+                    <h3 class="font-bold text-sm text-gray-900 dark:text-white group-hover:text-brand-500 transition-colors">HTML Sitemap</h3>
+                    <p class="text-xs text-gray-500 dark:text-gray-400 mt-1">Directory of all indexed pages and tools.</p>
+                </div>
+            </a>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="w-full border-t border-gray-200 dark:border-zinc-800 py-6 text-center text-xs text-gray-500 dark:text-gray-400">
+        <p>&copy; 2026 Search<span class="text-brand-500">Pro</span> Engine — Developed by <strong>lofedev</strong> (A Sub-product of <a href="https://sturio.io/" target="_blank" rel="noopener" class="text-brand-500 font-bold hover:underline">Sturio</a>).</p>
+    </footer>
+
+    <script>
+        // Theme toggle logic
+        const html = document.documentElement;
+        const themeBtn = document.getElementById('themeToggleBtn');
+        const themeIcon = themeBtn.querySelector('i');
+
+        let isDark = localStorage.getItem('omni_theme') === 'dark';
+        
+        function applyTheme() {
+            if (isDark) {
+                html.classList.add('dark');
+                themeIcon.classList.replace('fa-moon', 'fa-sun');
+            } else {
+                html.classList.remove('dark');
+                themeIcon.classList.replace('fa-sun', 'fa-moon');
+            }
+        }
+        applyTheme();
+
+        themeBtn.addEventListener('click', () => {
+            isDark = !isDark;
+            localStorage.setItem('omni_theme', isDark ? 'dark' : 'light');
+            applyTheme();
+        });
+
+        // Search form submit handling
+        document.getElementById('search404Form').addEventListener('submit', (e) => {
+            e.preventDefault();
+            const query = document.getElementById('query404Input').value.trim();
+            const sep = window.location.protocol === 'file:' ? '#' : '?';
+            window.location.href = `index.html${query ? sep + 'q=' + encodeURIComponent(query) : ''}`;
+        });
+    </script>
+</body>
+</html>

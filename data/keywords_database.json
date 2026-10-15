@@ -1,0 +1,2624 @@
+{
+  "project": "SearchPro PSEO Keywords Engine",
+  "version": "7.0.0",
+  "global_keywords": [
+    "open directory finder",
+    "public google drive search engine",
+    "find specific file websites",
+    "google dorks file search engine",
+    "index of finder",
+    "open directories list",
+    "google drive search tricks",
+    "url fuzzer alternative",
+    "find any file free",
+    "website directory scanner online",
+    "mega.nz search engine",
+    "dropbox public search engine",
+    "direct download search engine",
+    "ftp server index finder",
+    "mediafire link finder",
+    "google dork generator online",
+    "google dorks cheat sheet",
+    "file chef alternative",
+    "websites like filechef",
+    "palined alternative search",
+    "lumpy soft alternative",
+    "mamont open directory search",
+    "eye of justice alternative",
+    "raw web server explorer",
+    "apache index of files finder",
+    "nginx open directory search",
+    "parent directory download link",
+    "unprotected web directory search",
+    "exposed server directories search",
+    "open directory crawler online",
+    "intitle index of dorks list",
+    "inurl index of file search",
+    "cloud file search engine",
+    "public cloud storage link finder",
+    "google drive shared folder search",
+    "google drive dump finder",
+    "mega nz public folder dorks",
+    "mega folder direct link search",
+    "onedrive public shared folders",
+    "onedrive direct file download search",
+    "dropbox open directory finder",
+    "terabox public link finder",
+    "pixeldrain folder search engine",
+    "1fichier direct download dork",
+    "rapidgator directory search",
+    "mediafire folder index search",
+    "archive org open directory dorks",
+    "s3 bucket public file search",
+    "firebase storage open bucket search",
+    "azure blob storage file dorks",
+    "direct movie download open directory",
+    "4k movies open directory index",
+    "1080p bluray remux open directory",
+    "mkv video open directory finder",
+    "free ebook pdf open directory",
+    "college textbooks pdf google drive",
+    "academic research paper open directory",
+    "lossless flac audio open directory",
+    "hires studio audio shared folder",
+    "audiobooks mp3 open directory",
+    "software iso open directory download",
+    "apk mod direct download open directory",
+    "retro roms emulator open directory",
+    "vst audio plugins open directory",
+    "3d printing stl open directory",
+    "comics cbz cbr open directory",
+    "subtitles srt open directory finder",
+    "developer fonts ttf otf open directory",
+    "public datasets csv json open directory",
+    "telegram channel file search dork",
+    "discord public file attachment search",
+    "reddit open directories direct links",
+    "opendir reddit search engine",
+    "github gist file search dorks",
+    "pastebin raw dump search",
+    "osint file reconnaissance tool",
+    "google hacking database files",
+    "ghdb file dork cheat sheet",
+    "filetype search operators list",
+    "intitle index of mp4",
+    "intitle index of mkv",
+    "intitle index of pdf",
+    "intitle index of flac",
+    "intitle index of zip",
+    "intitle index of iso",
+    "intitle index of epub",
+    "intitle index of apk",
+    "intitle index of stl",
+    "intitle index of roms",
+    "fast direct download link search",
+    "no signup file download engine",
+    "ad free file search engine",
+    "bypass download speed limits dork",
+    "client side file dork generator",
+    "real time open directory finder",
+    "anonymous file search engine",
+    "privacy friendly open directory search",
+    "deep web file search engine free",
+    "hidden web directory finder",
+    "index of last modified size description",
+    "index of parent directory movies",
+    "index of parent directory books",
+    "index of parent directory music",
+    "index of parent directory software",
+    "open directory harvester tool",
+    "odcrawler alternative search engine"
+  ],
+  "keyword_clusters": [
+    {
+      "id": "open-directory-finder-video",
+      "category": "video",
+      "slug": "open-directory-finder-video.html",
+      "h1": "Open Directory Finder for 4K Movies, MKV & Videos",
+      "title": "Open Directory Finder for Movies & 4K Videos | SearchPro",
+      "metaDescription": "Use SearchPro as your open directory finder for 4K movies, MKV, MP4, 3D videos, and raw web servers. Direct movie download links finder.",
+      "primaryKeywords": [
+        "open directory finder",
+        "open directory finder video",
+        "open directory finder 4k",
+        "movie open directory list",
+        "index of movies mkv",
+        "open directory movies 1080p",
+        "open directory 4k remux",
+        "raw video server search",
+        "free movie direct download index",
+        "index of movies mp4 bluray",
+        "open directory tv series hd"
+      ],
+      "lsiKeywords": [
+        "direct movie download links",
+        "index of mp4 films",
+        "raw web server video stream",
+        "open directory 2160p uhd",
+        "google dork movie index",
+        "bypassing streaming paywalls",
+        "raw web server media index",
+        "apache index of movies",
+        "nginx video folder direct stream",
+        "public cloud drive film archive",
+        "intitle index of mkv 2160p",
+        "inurl movies mkv mp4"
+      ],
+      "targetExtensions": [
+        ".mkv",
+        ".mp4",
+        ".avi",
+        ".mov",
+        ".webm",
+        "2160p 4K"
+      ],
+      "dorkExample": "intext:\"Avatar\" (mkv|mp4|avi) intitle:\"index.of./\" -inurl:(html|php)",
+      "searchQuery": "4k movies mkv",
+      "summary": "Locate raw web server directories hosting 4K videos, MKV films, and high-definition video files using precision Google Dorks.",
+      "customIntro": "Web servers around the globe host public video directories where 4K MKV movies, BluRay remuxes, and MP4 media are stored without dynamic website fronts. Finding an open directory for movies gives film enthusiasts direct, uncompressed access to video streams and high-speed downloads without intrusive advertising or fake player buttons.",
+      "customDorkGuide": "To search for 4K movies and MKV media in open web servers, combine index of title strings with video extension parameters. SearchPro automates queries like intext:\"movie name\" (mkv|mp4|avi) intitle:\"index.of./\" while injecting negative parameters (-inurl:php -inurl:html) to eliminate fake streaming sites.",
+      "customFaqs": [
+        {
+          "q": "How do I find direct MKV 4K movie download links?",
+          "a": "Select the Video 4K category in SearchPro, enter the movie title, and turn on the Index Of toggle to generate Google dorks targeting raw server folders containing .mkv and .mp4 video files."
+        },
+        {
+          "q": "Why use an open directory finder for movies instead of streaming sites?",
+          "a": "Open directories provide raw, uncompressed media streams hosted on public web servers, bypassing buffering, pop-up ads, and mandatory account registration."
+        }
+      ]
+    },
+    {
+      "id": "google-drive-search-engine-pdf",
+      "category": "text",
+      "slug": "google-drive-search-engine-pdf.html",
+      "h1": "Public Google Drive Search Engine for Books & PDFs",
+      "title": "Public Google Drive Search Engine for Books & PDFs | SearchPro",
+      "metaDescription": "Search public Google Drive folders for PDF books, documents, research papers, and technical manuals using SearchPro.",
+      "primaryKeywords": [
+        "public google drive search engine",
+        "google drive pdf search",
+        "how to search google drive files on google",
+        "find google drive links pdf",
+        "google drive document search engine",
+        "google drive free ebooks repository",
+        "shared gdrive pdf libraries",
+        "google drive technical manuals search",
+        "google drive whitepapers directory"
+      ],
+      "lsiKeywords": [
+        "google drive shared folder search",
+        "search public drive for ebooks",
+        "google search filetype pdf",
+        "drive google com folder search",
+        "free pdf textbook google drive",
+        "google dork for shared documents",
+        "intitle drive google com pdf ebooks",
+        "public gdrive library dork",
+        "index of google drive pdfs"
+      ],
+      "targetExtensions": [
+        ".pdf",
+        ".epub",
+        ".mobi",
+        ".doc",
+        ".docx"
+      ],
+      "dorkExample": "site:drive.google.com \"python programming\" filetype:pdf",
+      "searchQuery": "programming ebooks pdf",
+      "summary": "Effortlessly index and discover public Google Drive folders containing PDFs, eBooks, whitepapers, and academic documents.",
+      "customIntro": "Google Drive is a premier cloud platform where academic institutions, software developers, and researchers host shared document folders. Because standard search engines do not index shared drive folders by default without targeted parameters, SearchPro bridges the gap by formatting site:drive.google.com searches with precise filetype filters.",
+      "customDorkGuide": "By appending site:drive.google.com with document type operators like filetype:pdf or filetype:epub and folder path indicators, SearchPro isolates publicly shared Google Drive links, allowing you to discover digital libraries and whitepapers effortlessly.",
+      "customFaqs": [
+        {
+          "q": "How to search public Google Drive folders for PDF books?",
+          "a": "In SearchPro, choose the Text category, enter your topic or author name, and execute the search to target public drive.google.com PDF repositories."
+        },
+        {
+          "q": "Is searching public Google Drive links legal?",
+          "a": "Yes, SearchPro uses standard Google search operators to query publicly indexable Google Drive folders that owners have explicitly set to public view."
+        }
+      ]
+    },
+    {
+      "id": "find-specific-file-websites-software",
+      "category": "software",
+      "slug": "find-specific-file-websites-software.html",
+      "h1": "Find Specific File Websites for Software, ISOs & Games",
+      "title": "Find Specific File Websites for Software & ISOs | SearchPro",
+      "metaDescription": "Locate open directory repositories hosting software archives, game ISOs, APKs, EXE installers, and system images.",
+      "primaryKeywords": [
+        "find specific file websites",
+        "find any file free",
+        "open directory software",
+        "iso open directory",
+        "apk open directory finder",
+        "find software installation files online",
+        "open directory windows software",
+        "open directory linux binaries",
+        "direct download utility software",
+        "portable apps open directory"
+      ],
+      "lsiKeywords": [
+        "linux iso mirror search",
+        "windows 10 iso open directory",
+        "android apk server index",
+        "exe setup open directory",
+        "games iso open index",
+        "raw web server software repository",
+        "intitle index of software exe msi",
+        "open directory freeware tools",
+        "developer tools open directory",
+        "archive software direct download"
+      ],
+      "targetExtensions": [
+        ".iso",
+        ".exe",
+        ".apk",
+        ".zip",
+        ".rar",
+        ".msi"
+      ],
+      "dorkExample": "intext:\"ubuntu-22.04\" (iso|img|tar) intitle:\"index.of./\"",
+      "searchQuery": "linux iso setup",
+      "summary": "Scan open directories and server mirrors for software binaries, installation ISOs, APK packages, and compressed archives.",
+      "customIntro": "Software mirrors, operating system distributions, and developer tools are frequently hosted in root web server directory trees. Finding specific file websites for software installation files (such as .iso, .exe, .apk, and .msi) allows system administrators and developers to download installer packages directly from fast HTTP/FTP mirrors.",
+      "customDorkGuide": "SearchPro formats search dorks targeting server directory listings that contain installer extensions. By searching intext:\"software name\" (iso|exe|apk) intitle:\"index.of./\", you can discover open software mirrors without navigating ad-filled download portals.",
+      "customFaqs": [
+        {
+          "q": "How to find open directory software mirrors for Linux ISOs?",
+          "a": "Select Software/Games in SearchPro and type your distribution name (e.g. Ubuntu or Debian) to construct queries targeting raw server ISO mirrors."
+        },
+        {
+          "q": "How can I verify the integrity of downloaded software files?",
+          "a": "Always compute and compare the SHA256 or MD5 checksum of downloaded ISOs and executable files against the official vendor hash, and scan files with security software."
+        }
+      ]
+    },
+    {
+      "id": "open-directories-list-audio",
+      "category": "audio",
+      "slug": "open-directories-list-audio.html",
+      "h1": "Open Directories List for Audio, FLAC & MP3 Music",
+      "title": "Open Directories List for Audio, FLAC & MP3 Music | SearchPro",
+      "metaDescription": "Find open directories list for FLAC, MP3, WAV, and high-fidelity audio collections. Direct music directory search engine.",
+      "primaryKeywords": [
+        "open directories list",
+        "open directory music",
+        "flac open directory finder",
+        "mp3 open directory search",
+        "direct music download links",
+        "open directory flac music albums",
+        "open directory lossless audio tracks",
+        "studio quality wav open directory",
+        "discography direct download index",
+        "uncompressed music open directories"
+      ],
+      "lsiKeywords": [
+        "lossless audio open directory",
+        "index of flac albums",
+        "hi-res audio open server",
+        "mp3 album index of",
+        "discography open directory",
+        "intitle index of flac mp3 albums",
+        "raw apache music directory listing",
+        "audiophile open directory flac",
+        "music soundboard direct download links",
+        "index of mp3 discography"
+      ],
+      "targetExtensions": [
+        ".mp3",
+        ".flac",
+        ".wav",
+        ".m4a",
+        ".ogg"
+      ],
+      "dorkExample": "intext:\"Beethoven\" (mp3|flac|wav) intitle:\"index.of./\" -inurl:(listen77|mp3raid)",
+      "searchQuery": "flac classical music",
+      "summary": "Explore open music servers and audio archives containing high-quality MP3s, FLAC lossless tracks, and sound libraries.",
+      "customIntro": "Audiophiles and music collectors seeking lossless FLAC audio, 24-bit studio masters, or classical discographies often struggle with low-bitrate streaming sites. Open audio directories provide direct access to structured artist and album folders hosted on public web servers.",
+      "customDorkGuide": "SearchPro links audio format extensions like .flac, .mp3, and .wav with index of title search terms, filtering out spam soundboards and fake streaming landing pages with negative url parameters.",
+      "customFaqs": [
+        {
+          "q": "How to find lossless FLAC audio open directories?",
+          "a": "Select Audio in SearchPro, check FLAC and MP3 extensions, and input your artist or album name to query high-fidelity server directories."
+        }
+      ]
+    },
+    {
+      "id": "google-drive-movies-search-engine",
+      "category": "video",
+      "slug": "google-drive-movies-search-engine.html",
+      "h1": "Google Drive Movies & Series Direct Search Engine",
+      "title": "Google Drive Movies & Series Direct Search Engine | SearchPro",
+      "metaDescription": "High-traffic search tool to locate public Google Drive movie links, 4K film folders, and shared cloud video libraries.",
+      "primaryKeywords": [
+        "google drive movies link",
+        "google drive movie search engine",
+        "public google drive movie folders",
+        "find google drive 4k movies",
+        "google drive film collection link",
+        "google drive 1080p movie folder",
+        "shared gdrive cinema repository",
+        "google drive anime series episodes",
+        "google drive documentary search"
+      ],
+      "lsiKeywords": [
+        "google drive movie folder link",
+        "search google drive for movies 1080p",
+        "drive google com movies folder",
+        "direct google drive video stream",
+        "site drive google com video folder",
+        "google drive media stream direct link",
+        "unrestricted gdrive film dump",
+        "intitle index of google drive movies",
+        "shared video drive links bypass quota"
+      ],
+      "targetExtensions": [
+        "site:drive.google.com",
+        ".mkv",
+        ".mp4"
+      ],
+      "dorkExample": "site:drive.google.com/drive/folders/ \"movies\"",
+      "searchQuery": "google drive movies folder",
+      "summary": "Discover public Google Drive shared folders packed with HD and 4K movies using advanced cloud dorks.",
+      "customIntro": "Google Drive shared folders are a popular choice for media archiving. Public Google Drive movie folders often store full 1080p and 4K film collections. Searching these cloud folders directly provides reliable video streaming and download speeds.",
+      "customDorkGuide": "SearchPro constructs queries combining site:drive.google.com/drive/folders/ with video title keywords and format specifiers to locate public Google Drive video directories instantly.",
+      "customFaqs": [
+        {
+          "q": "How to find public Google Drive movie links?",
+          "a": "Use SearchPro's Video 4K category and type your movie name to target shared public drive.google.com folder directories."
+        }
+      ]
+    },
+    {
+      "id": "mega-nz-cloud-search-engine",
+      "category": "compressed",
+      "slug": "mega-nz-cloud-search-engine.html",
+      "h1": "Mega.nz Public Cloud File Search Engine & Link Finder",
+      "title": "Mega.nz Public Cloud File Search Engine & Link Finder | SearchPro",
+      "metaDescription": "Search public Mega.nz folder links, shared cloud archives, and mega drive direct downloads with SearchPro.",
+      "primaryKeywords": [
+        "mega.nz search engine",
+        "mega drive search link finder",
+        "mega nz public folder dorks",
+        "find mega.nz shared files",
+        "mega nz folder link search engine",
+        "mega cloud public drive links",
+        "find mega nz shared zip collections",
+        "mega nz file decryption key search",
+        "mega direct download link finder"
+      ],
+      "lsiKeywords": [
+        "mega folder link lookup",
+        "site mega.nz folder search",
+        "mega cloud direct link",
+        "mega nz search tool online",
+        "site mega nz folder file search",
+        "mega cloud storage open directory",
+        "public mega links index forum",
+        "mega nz cloud crawler engine",
+        "mega nz bulk download links"
+      ],
+      "targetExtensions": [
+        "site:mega.nz",
+        "site:mega.co.nz"
+      ],
+      "dorkExample": "site:mega.nz/folder/ \"archive\"",
+      "searchQuery": "mega nz folder",
+      "summary": "Uncover public Mega.nz shared folders and cloud archives using precision search engine operators.",
+      "customIntro": "Mega.nz is a major high-speed cloud storage provider where creators share data sets, software packages, and media archives. Finding public Mega.nz shared folders requires precise Google search operators that target mega.nz/folder/ and mega.nz/file/ URL patterns.",
+      "customDorkGuide": "SearchPro formats site:mega.nz/folder/ and site:mega.nz/file/ queries alongside your topic keywords, allowing you to discover public Mega cloud shares quickly.",
+      "customFaqs": [
+        {
+          "q": "How to search for Mega.nz shared folder links on Google?",
+          "a": "Enter your keyword in SearchPro and choose Compressed or Software category to generate site:mega.nz/folder/ Google search strings."
+        }
+      ]
+    },
+    {
+      "id": "dropbox-public-directory-finder",
+      "category": "text",
+      "slug": "dropbox-public-directory-finder.html",
+      "h1": "Dropbox Shared Folders & Public File Finder",
+      "title": "Dropbox Shared Folders & Public File Finder | SearchPro",
+      "metaDescription": "Search public Dropbox shared links, document repositories, and open folder structures with custom search dorks.",
+      "primaryKeywords": [
+        "dropbox public directory search",
+        "dropbox shared folder finder",
+        "site dropbox.com public files",
+        "find dropbox direct links",
+        "dropbox public shared folder search",
+        "dropbox direct download link generator",
+        "find dropbox shared files dorks",
+        "dropbox open document repository",
+        "dropbox public archive search"
+      ],
+      "lsiKeywords": [
+        "dropbox public folder lookup",
+        "search inside dropbox link",
+        "dropbox document library dork",
+        "dropbox direct download finder",
+        "site dropbox com s shared folder",
+        "dropbox public file search operator",
+        "open dropbox repository finder",
+        "dropbox cloud folder direct index",
+        "intitle dropbox shared files"
+      ],
+      "targetExtensions": [
+        "site:dropbox.com/s/",
+        "site:dropbox.com/sh/"
+      ],
+      "dorkExample": "site:dropbox.com/sh/ \"documents\"",
+      "searchQuery": "dropbox shared folder",
+      "summary": "Target public Dropbox shared links and document folders across web search indexes.",
+      "customIntro": "Dropbox is widely used for collaborative document sharing. Public Dropbox folders often contain corporate press kits, open-source documentation, research datasets, and media archives.",
+      "customDorkGuide": "By appending site:dropbox.com/sh/ or site:dropbox.com/s/ with specific keywords, SearchPro isolates publicly shared Dropbox files indexed by web search engines.",
+      "customFaqs": [
+        {
+          "q": "How can I search for public Dropbox links?",
+          "a": "SearchPro formats site:dropbox.com/sh/ search queries paired with your desired file extensions and keywords."
+        }
+      ]
+    },
+    {
+      "id": "mediafire-direct-download-links",
+      "category": "compressed",
+      "slug": "mediafire-direct-download-links.html",
+      "h1": "Mediafire Direct Download Links & Folder Search Engine",
+      "title": "Mediafire Direct Download Links & Folder Search Engine | SearchPro",
+      "metaDescription": "Locate public Mediafire download links, file shares, and compressed archive folders with SearchPro.",
+      "primaryKeywords": [
+        "mediafire search engine",
+        "mediafire direct download links dork",
+        "find mediafire file links",
+        "mediafire folder search",
+        "mediafire public folder search",
+        "mediafire direct link search engine",
+        "find mediafire shared files online",
+        "mediafire zip rar archive search",
+        "mediafire file indexer tool"
+      ],
+      "lsiKeywords": [
+        "site mediafire.com download",
+        "mediafire zip file search",
+        "mediafire rar open search",
+        "mediafire shared links lookup",
+        "site mediafire com folder search",
+        "mediafire fast download links dorks",
+        "public mediafire cloud repository",
+        "mediafire link scraper alternative",
+        "mediafire file sharing index"
+      ],
+      "targetExtensions": [
+        "site:mediafire.com/file/",
+        "site:mediafire.com/folder/"
+      ],
+      "dorkExample": "site:mediafire.com/folder/ \"software\"",
+      "searchQuery": "mediafire software folder",
+      "summary": "Find direct Mediafire file links and shared folder archives with automated search dork queries.",
+      "customIntro": "Mediafire has hosted shared files and software archives for over a decade. Searching public Mediafire folder directories allows users to find software setups, game patches, and document archives.",
+      "customDorkGuide": "SearchPro combines site:mediafire.com/file/ and site:mediafire.com/folder/ with format filters to locate direct download links on Mediafire.",
+      "customFaqs": [
+        {
+          "q": "How to search Mediafire files using Google dorks?",
+          "a": "SearchPro generates site:mediafire.com search payloads filtered by filetype or extension for easy file discovery."
+        }
+      ]
+    },
+    {
+      "id": "open-ftp-server-index-finder",
+      "category": "software",
+      "slug": "open-ftp-server-index-finder.html",
+      "h1": "Open FTP Server Index Finder & Directory Scanner",
+      "title": "Open FTP Server Index Finder & Directory Scanner | SearchPro",
+      "metaDescription": "Scan public FTP servers, raw web directories, and exposed host folders for direct high-speed file downloads.",
+      "primaryKeywords": [
+        "open ftp directory list",
+        "ftp server search engine",
+        "inurl:ftp index of movies",
+        "open ftp server finder",
+        "anonymous ftp server list",
+        "public ftp directory search engine",
+        "open ftp server crawler online",
+        "raw ftp file index download",
+        "port 21 open ftp servers finder"
+      ],
+      "lsiKeywords": [
+        "ftp directory scanner online",
+        "raw ftp host download",
+        "index of ftp server root",
+        "anonymous ftp open directory",
+        "inurl ftp anonymous password search",
+        "ftp directory index of parent directory",
+        "public ftp archives mirrors",
+        "ftp file search operators",
+        "unprotected ftp repository search"
+      ],
+      "targetExtensions": [
+        "inurl:ftp",
+        "intitle:\"index of /ftp\""
+      ],
+      "dorkExample": "inurl:ftp intitle:\"index of\" \"pub\"",
+      "searchQuery": "ftp server index",
+      "summary": "Locate anonymous FTP servers and open host directories for maximum download speeds.",
+      "customIntro": "File Transfer Protocol (FTP) servers host raw data archives, research backups, and software repositories accessible over port 21/80. Open FTP servers provide incredible download bandwidth without modern web wrapper bloat.",
+      "customDorkGuide": "SearchPro generates inurl:ftp combined with intitle:\"index of\" search strings, letting you scan anonymous FTP servers and root directory trees worldwide.",
+      "customFaqs": [
+        {
+          "q": "What is an open FTP server?",
+          "a": "An open FTP server is a server host configured for anonymous public access, allowing users to browse and download files directly via web browser or FTP client."
+        }
+      ]
+    },
+    {
+      "id": "programming-ebooks-pdf-google-drive",
+      "category": "text",
+      "slug": "programming-ebooks-pdf-google-drive.html",
+      "h1": "Programming eBooks & IT Technical Manuals Search Engine",
+      "title": "Programming eBooks & IT Technical Manuals Search Engine | SearchPro",
+      "metaDescription": "Find free programming books, IT certifications, computer science textbooks, and coding PDFs in open web directories.",
+      "primaryKeywords": [
+        "free programming books pdf google drive",
+        "python ebook open directory",
+        "it books index of pdf",
+        "computer science textbooks search",
+        "programming books google drive pdf",
+        "coding ebooks open directory",
+        "computer science pdf textbooks drive",
+        "python javascript rust books drive",
+        "web development ebooks shared folder"
+      ],
+      "lsiKeywords": [
+        "web development pdf google drive",
+        "javascript book open directory",
+        "cybersecurity pdf index of",
+        "software engineering ebooks",
+        "site drive google com programming pdf",
+        "intitle index of programming books pdf",
+        "free developer ebooks open directory",
+        "software engineering books google drive",
+        "open library coding manuals pdf"
+      ],
+      "targetExtensions": [
+        ".pdf",
+        ".epub",
+        ".mobi"
+      ],
+      "dorkExample": "intext:\"Python\" (pdf|epub) intitle:\"index.of./books\"",
+      "searchQuery": "python programming books pdf",
+      "summary": "Discover vast collections of IT books, coding tutorials, and computer science textbooks.",
+      "customIntro": "Software engineers, students, and self-taught developers rely on technical books, documentation PDFs, and programming guides. Finding open directory servers and shared drives containing computer science literature accelerates learning without paywalls.",
+      "customDorkGuide": "SearchPro formats search queries like intext:\"programming language\" (pdf|epub|mobi) intitle:\"index.of./\" to uncover open digital libraries hosting programming books.",
+      "customFaqs": [
+        {
+          "q": "How to find Python and JavaScript ebooks in PDF format?",
+          "a": "Use the Text category in SearchPro, enter the language or topic name, and run the search to locate open textbook directories."
+        }
+      ]
+    },
+    {
+      "id": "torrent-alternative-direct-link-finder",
+      "category": "video",
+      "slug": "torrent-alternative-direct-link-finder.html",
+      "h1": "Torrent Alternative Direct Link Finder & DDL Search Engine",
+      "title": "Torrent Alternative Direct Link Finder & DDL Search Engine | SearchPro",
+      "metaDescription": "Bypass slow torrents with direct download link (DDL) search queries targeting open web server folders and cloud mirrors.",
+      "primaryKeywords": [
+        "direct download search engine",
+        "torrent alternative direct link finder",
+        "ddl search engine",
+        "direct http download finder",
+        "torrent alternative no p2p download",
+        "safe direct download without torrent",
+        "http direct download alternative to torrent",
+        "open directory vs torrenting",
+        "fast direct link movie download"
+      ],
+      "lsiKeywords": [
+        "no torrent direct download",
+        "high speed http file server",
+        "index of direct media links",
+        "bypass torrents open directory",
+        "ddl direct download link finder",
+        "no vpn required movie downloads",
+        "direct server link instead of torrent",
+        "high speed http file downloads",
+        "bypassing torrent throttles with ddl"
+      ],
+      "targetExtensions": [
+        ".mkv",
+        ".iso",
+        ".zip",
+        ".rar"
+      ],
+      "dorkExample": "intext:\"linux\" (iso|zip) intitle:\"index.of./\" -inurl:(torrent|tpb)",
+      "searchQuery": "direct download search",
+      "summary": "Find high-speed HTTP direct download links without needing BitTorrent clients.",
+      "customIntro": "BitTorrent relies on peer-to-peer seeders and torrent clients. Direct HTTP download (DDL) servers host full-speed files on high-bandwidth web servers, giving users maximum download rates without torrent client setup.",
+      "customDorkGuide": "SearchPro constructs DDL search strings that explicitly exclude torrent aggregators (-inurl:torrent -inurl:tpb) while targeting root HTTP server folder indexes.",
+      "customFaqs": [
+        {
+          "q": "What is DDL (Direct Download Link)?",
+          "a": "DDL refers to direct HTTP/HTTPS file download links hosted on web servers, allowing full connection speed without peer-to-peer torrent seeding."
+        }
+      ]
+    },
+    {
+      "id": "movie-subtitles-srt-open-directory",
+      "category": "text",
+      "slug": "movie-subtitles-srt-open-directory.html",
+      "h1": "Movie Subtitles SRT & Script PDF Open Directory Finder",
+      "title": "Movie Subtitles SRT & Script PDF Open Directory Finder | SearchPro",
+      "metaDescription": "Find open directory folders hosting SRT subtitle files, VTT closed captions, and original movie script PDFs.",
+      "primaryKeywords": [
+        "srt subtitles open directory",
+        "movie script pdf index of",
+        "subtitle download directory",
+        "free srt files finder",
+        "srt subtitles open directory search",
+        "subtitles archive direct download",
+        "multi language srt files open directory",
+        "ass vtt subtitles raw server index",
+        "movie subtitles directory listing"
+      ],
+      "lsiKeywords": [
+        "english subtitles srt open server",
+        "screenplay pdf index of",
+        "film transcript open directory",
+        "vtt subtitle zip archive",
+        "intitle index of srt sub subtitles",
+        "direct download srt english spanish",
+        "opensubtitles alternative raw directory",
+        "subtitle pack open directory zip",
+        "inurl subtitles srt vtt"
+      ],
+      "targetExtensions": [
+        ".srt",
+        ".vtt",
+        ".pdf",
+        ".txt",
+        ".sub"
+      ],
+      "dorkExample": "intext:\"subtitles\" (srt|vtt) intitle:\"index.of./\"",
+      "searchQuery": "movie subtitles srt",
+      "summary": "Locate subtitle folders, multilingual SRT files, and film screenplay documents in raw directory indexes.",
+      "customIntro": "Movie buffs, language learners, and video editors often need standalone SRT subtitle files or original film screenplay PDFs. Open subtitle directories store organized caption folders for thousands of movies and TV shows.",
+      "customDorkGuide": "SearchPro generates search queries matching subtitle extensions (.srt, .vtt, .sub) and script PDFs in open directory structures.",
+      "customFaqs": [
+        {
+          "q": "How to search for SRT subtitle files for movies?",
+          "a": "Select Text category in SearchPro and type the movie title to target server folders containing .srt subtitle files."
+        }
+      ]
+    },
+    {
+      "id": "4k-wallpapers-photos-open-directory",
+      "category": "pictures",
+      "slug": "4k-wallpapers-photos-open-directory.html",
+      "h1": "4K Wallpapers, Raw Photography & Graphic Open Directory",
+      "title": "4K Wallpapers, Raw Photography & Graphic Open Directory | SearchPro",
+      "metaDescription": "Discover open directories containing 4K desktop wallpapers, RAW photography archives, high-resolution textures, and PSD graphics.",
+      "primaryKeywords": [
+        "4k wallpaper open directory",
+        "desktop backgrounds index of",
+        "raw photo archive open directory",
+        "high res texture open index",
+        "4k wallpapers open directory download",
+        "raw photos high resolution directory",
+        "8k desktop background open directory",
+        "uncompressed photography raw nef arw",
+        "minimalist wallpaper pack open directory"
+      ],
+      "lsiKeywords": [
+        "stock photos open server",
+        "wallpapers zip index of",
+        "psd graphics open directory",
+        "ultra hd wallpaper directory",
+        "intitle index of wallpapers 4k uhd",
+        "raw photography open directory index",
+        "inurl wallpapers 3840x2160 jpg png",
+        "high res landscape photos open directory",
+        "creative commons raw images directory"
+      ],
+      "targetExtensions": [
+        ".jpg",
+        ".png",
+        ".psd",
+        ".tif",
+        ".cr2",
+        ".raw"
+      ],
+      "dorkExample": "intext:\"wallpaper\" (jpg|png|psd) intitle:\"index.of./\"",
+      "searchQuery": "4k wallpapers jpg png",
+      "summary": "Find high-resolution wallpaper galleries, stock photography folders, and design texture mirrors.",
+      "customIntro": "Graphic designers, digital artists, and desktop enthusiasts seek uncompressed 4K wallpapers, RAW photo assets, and Photoshop PSD templates. Open image directories host high-resolution image libraries without watermarks.",
+      "customDorkGuide": "SearchPro builds queries isolating high-res image extensions (.jpg, .png, .psd, .tif) within open folder indexes.",
+      "customFaqs": [
+        {
+          "q": "How to find 4K wallpaper open directories?",
+          "a": "Use the Pictures category in SearchPro to search open server folders hosting 4K backgrounds and graphics."
+        }
+      ]
+    },
+    {
+      "id": "sound-effects-sample-packs-open-directory",
+      "category": "audio",
+      "slug": "sound-effects-sample-packs-open-directory.html",
+      "h1": "Sound Effects & Audio Sample Packs Open Directory Finder",
+      "title": "Sound Effects & Audio Sample Packs Open Directory Finder | SearchPro",
+      "metaDescription": "Find open directory archives hosting music sample packs, FL Studio drum kits, WAV sound effects, and VST presets.",
+      "primaryKeywords": [
+        "sample pack open directory zip",
+        "fl studio drum kit index of",
+        "free sound effects wav open directory",
+        "vst presets open index",
+        "sound effects wav open directory",
+        "music producer sample pack directory",
+        "drum kit sample packs open directory",
+        "foley sound library direct download",
+        "royalty free sfx open directory"
+      ],
+      "lsiKeywords": [
+        "producer sample kit index",
+        "sfx wav files open server",
+        "music production zip directory",
+        "synth presets zip index",
+        "intitle index of wav sample packs",
+        "music production samples google drive",
+        "inurl sfx sound effects wav mp3",
+        "audio engineer foley sound index",
+        "free stem packs open directory"
+      ],
+      "targetExtensions": [
+        ".wav",
+        ".zip",
+        ".flp",
+        ".fxp"
+      ],
+      "dorkExample": "intext:\"sample pack\" (wav|zip) intitle:\"index.of./\"",
+      "searchQuery": "audio sample packs wav zip",
+      "summary": "Search open directories for music producer sample kits, royalty-free WAV sound effects, and audio presets.",
+      "customIntro": "Music producers, sound designers, and content creators need WAV sound effects, drum kits, synth presets, and sample packs. Open audio directories contain organized producer kits and royalty-free WAV libraries.",
+      "customDorkGuide": "SearchPro formats search dorks linking .wav, .flp, and .zip files with music production search terms in server directory listings.",
+      "customFaqs": [
+        {
+          "q": "How to search for WAV sample packs and drum kits?",
+          "a": "Choose Audio category in SearchPro and input your genre or kit name to discover open producer sample archives."
+        }
+      ]
+    },
+    {
+      "id": "public-google-drive-search-tool",
+      "category": "video",
+      "slug": "public-google-drive-search-tool.html",
+      "h1": "Public Google Drive Search Tool & Link Finder",
+      "title": "Public Google Drive Search Tool & Link Finder | SearchPro",
+      "metaDescription": "Search public Google Drive storage links, shared folders, and cloud repositories using precision Google Dork search tricks.",
+      "primaryKeywords": [
+        "public google drive search tool",
+        "google drive search tricks",
+        "how to search for google drive links on google",
+        "find google drive files",
+        "google drive dork generator online",
+        "public google drive finder tool",
+        "automated gdrive search query builder",
+        "instant google drive search filters",
+        "unrestricted google drive search"
+      ],
+      "lsiKeywords": [
+        "google drive folder link finder",
+        "search inside google drive url",
+        "public cloud storage dorks",
+        "google drive url scanner",
+        "find public shared drive",
+        "how to find google drive folders",
+        "advanced google drive operator tricks",
+        "public gdrive index search engine",
+        "google drive link extractor online",
+        "inurl drive google com open access"
+      ],
+      "targetExtensions": [
+        "site:drive.google.com",
+        "site:docs.google.com"
+      ],
+      "dorkExample": "site:drive.google.com/drive/folders/ \"dataset\"",
+      "searchQuery": "public cloud folder",
+      "summary": "Uncover public Google Drive cloud links and shared folders across all media categories with targeted Google dorking.",
+      "customIntro": "Finding public Google Drive folders across different media types requires mastering specific search syntax. SearchPro serves as an instant public Google Drive link finder.",
+      "customDorkGuide": "Using site:drive.google.com alongside keyword parameters isolates shared cloud folders instantly.",
+      "customFaqs": [
+        {
+          "q": "How to search inside a public Google Drive link?",
+          "a": "Use site:drive.google.com with folder filters in SearchPro."
+        }
+      ]
+    },
+    {
+      "id": "comics-cbz-open-directory-finder",
+      "category": "comics",
+      "slug": "comics-cbz-open-directory-finder.html",
+      "h1": "Comics & CBZ/CBR Open Directory Search Engine",
+      "title": "Comics & CBZ/CBR Open Directory Search Engine | SearchPro",
+      "metaDescription": "Locate open directory servers hosting comic books, CBZ, CBR, CB7, and digital graphic novels with SearchPro.",
+      "primaryKeywords": [
+        "comics open directory finder",
+        "cbz open directory",
+        "cbr comic book search",
+        "index of comics cbz",
+        "digital graphic novel directory",
+        "comics cbr cbz open directory",
+        "graphic novels direct download index",
+        "marvel dc comics open directory",
+        "manga cbz open directory download",
+        "vintage comic books archive open directory"
+      ],
+      "lsiKeywords": [
+        "manga open directory finder",
+        "graphic novels index of",
+        "cbr reader comic search",
+        "comic archive google drive",
+        "cbz format finder",
+        "intitle index of cbz cbr comics",
+        "inurl comics cbr cbz parent directory",
+        "digital comic reader files direct download",
+        "comic book preservation open directory",
+        "raw server comic book scans"
+      ],
+      "targetExtensions": [
+        ".cbz",
+        ".cbr",
+        ".cb7",
+        ".epub",
+        ".pdf"
+      ],
+      "dorkExample": "intext:\"Spider-Man\" (cbz|cbr|pdf) intitle:\"index.of./\"",
+      "searchQuery": "comic books cbz",
+      "summary": "Find digital comic archives, graphic novels, CBZ, and CBR files in raw open directory servers.",
+      "customIntro": "Digital comic books are archived in container formats like CBZ and CBR. Open comic directories host complete series and graphic novels.",
+      "customDorkGuide": "SearchPro pairs comic extensions (.cbz, .cbr) with index of title dorks to uncover comic repositories.",
+      "customFaqs": [
+        {
+          "q": "How to open CBZ and CBR comic files?",
+          "a": "CBZ and CBR files can be read using dedicated comic readers like YACReader, CDisplayEx, or ComicRack."
+        }
+      ]
+    },
+    {
+      "id": "compressed-zip-rar-open-directory",
+      "category": "compressed",
+      "slug": "compressed-zip-rar-open-directory.html",
+      "h1": "ZIP, RAR & 7Z Archive Open Directory Finder",
+      "title": "ZIP, RAR & 7Z Archive Open Directory Finder | SearchPro",
+      "metaDescription": "Search for compressed archives, ZIP files, RAR backups, and 7Z archives in open web server directories with SearchPro.",
+      "primaryKeywords": [
+        "zip open directory finder",
+        "rar open directory",
+        "compressed files search engine",
+        "index of zip archives",
+        "find 7z files web",
+        "zip rar 7z open directory search",
+        "compressed archive direct download finder",
+        "tar gz backup files open directory",
+        "split zip volumes open directory",
+        "open directory compressed file crawler"
+      ],
+      "lsiKeywords": [
+        "tar gz archive search",
+        "split rar open directory",
+        "backup zip server index",
+        "open directory 7z archive",
+        "raw server data dump zip",
+        "intitle index of zip rar 7z tar",
+        "inurl backup zip open directory",
+        "raw web server archive directories",
+        "multi part rar download open server",
+        "large archive direct download links"
+      ],
+      "targetExtensions": [
+        ".zip",
+        ".rar",
+        ".7z",
+        ".tar",
+        ".gz",
+        ".bz2"
+      ],
+      "dorkExample": "intext:\"backup\" (zip|rar|7z|tar.gz) intitle:\"index.of./\"",
+      "searchQuery": "zip archive backup",
+      "summary": "Target compressed data archives, backup packages, and multi-part RAR files across public web servers.",
+      "customIntro": "Bulk data sets, system backups, and media collections are frequently compressed into ZIP, RAR, or 7Z archives on web servers.",
+      "customDorkGuide": "SearchPro formats search dorks targeting extension groups (zip|rar|7z|tar.gz) in root folder indexes.",
+      "customFaqs": [
+        {
+          "q": "How to find multi-part RAR archives?",
+          "a": "Use the Compressed category in SearchPro to target .part1.rar or .rar server directory indexes."
+        }
+      ]
+    },
+    {
+      "id": "linux-mac-file-search-dorks",
+      "category": "software",
+      "slug": "linux-mac-file-search-dorks.html",
+      "h1": "Linux & Mac Web File Search Dorks & Directory Scanner",
+      "title": "Linux & Mac Web File Search Dorks & Directory Scanner | SearchPro",
+      "metaDescription": "Perform recursive web file searches, terminal directory navigation, and public asset discovery equivalent to Linux find and Mac Finder commands.",
+      "primaryKeywords": [
+        "linux search for file in all directories",
+        "find specific file in linux",
+        "mac terminal open finder in current directory",
+        "website directory scanner",
+        "linux iso open directory search",
+        "mac dmg pkg open directory",
+        "debian ubuntu arch repo mirrors",
+        "linux kernel tarballs open directory",
+        "cross platform open source binaries directory"
+      ],
+      "lsiKeywords": [
+        "linux find file by name recursive",
+        "terminal command to open directory",
+        "web directory crawler dork",
+        "find file in ubuntu terminal",
+        "open home directory in finder",
+        "intitle index of linux iso dmg",
+        "inurl pub linux distributions mirror",
+        "raw apache linux archive index",
+        "fastest linux iso direct download",
+        "custom mac software dmg open directory"
+      ],
+      "targetExtensions": [
+        "intext:",
+        "intitle:",
+        "inurl:",
+        "filetype:"
+      ],
+      "dorkExample": "intitle:\"index of\" linux search for file recursive",
+      "searchQuery": "linux directory search",
+      "summary": "Leverage web-based dork equivalents for terminal commands like linux find file by name and mac finder open current directory.",
+      "customIntro": "System administrators accustomed to Linux CLI file commands (`find / -name \"pattern\"`) can use SearchPro to perform deep recursive web folder searches.",
+      "customDorkGuide": "SearchPro translates terminal file search intent into web directory dorks.",
+      "customFaqs": [
+        {
+          "q": "How does web directory searching compare to Linux find command?",
+          "a": "Web directory search targets public HTTP web servers using index of operators rather than local file system inodes."
+        }
+      ]
+    },
+    {
+      "id": "onedrive-cloud-storage-search-engine",
+      "category": "text",
+      "slug": "onedrive-cloud-storage-search-engine.html",
+      "h1": "OneDrive & SharePoint Public File Search Engine",
+      "title": "OneDrive & SharePoint Public File Search Engine | SearchPro",
+      "metaDescription": "Search public Microsoft OneDrive links, shared SharePoint folders, and cloud files with advanced dork operators.",
+      "primaryKeywords": [
+        "onedrive search engine",
+        "sharepoint public files search",
+        "how to search onedrive public links",
+        "microsoft cloud dork finder",
+        "onedrive shared file search engine",
+        "onedrive public link finder online",
+        "microsoft onedrive public folders dork",
+        "find shared onedrive documents pdf",
+        "onedrive direct download search engine"
+      ],
+      "lsiKeywords": [
+        "onedrive shared folder lookup",
+        "sharepoint document library search",
+        "site 1drv ms search",
+        "my sharepoint com public folders",
+        "site 1drv ms shared files search",
+        "onedrive open directory indexer",
+        "public onedrive cloud drive crawler",
+        "microsoft onedrive shared folder tricks",
+        "inurl onedrive live com cid"
+      ],
+      "targetExtensions": [
+        "site:1drv.ms",
+        "site:sharepoint.com"
+      ],
+      "dorkExample": "site:1drv.ms/f/s! \"documents\"",
+      "searchQuery": "onedrive public folder",
+      "summary": "Find public Microsoft OneDrive shared links, document repositories, and open SharePoint directories effortlessly.",
+      "customIntro": "Microsoft OneDrive and SharePoint host millions of shared business documents, technical manuals, and media files.",
+      "customDorkGuide": "SearchPro targets site:1drv.ms and site:sharepoint.com URL structures to locate public cloud shares.",
+      "customFaqs": [
+        {
+          "q": "How to search OneDrive public folders?",
+          "a": "Select Text or Software category in SearchPro to generate 1drv.ms dork links."
+        }
+      ]
+    },
+    {
+      "id": "audiobook-mp3-open-directory-finder",
+      "category": "audio",
+      "slug": "audiobook-mp3-open-directory-finder.html",
+      "h1": "Audiobooks MP3 & M4B Open Directory Finder",
+      "title": "Audiobooks MP3 & M4B Open Directory Finder | SearchPro",
+      "metaDescription": "Discover open server directories containing spoken word audiobooks, MP3 audiobooks, and M4B book collections.",
+      "primaryKeywords": [
+        "audiobook open directory finder",
+        "free mp3 audiobooks search",
+        "m4b audiobooks index of",
+        "audiobook google drive search",
+        "audiobooks m4b mp3 open directory",
+        "unabridged audiobook direct download",
+        "public domain audiobooks open directory",
+        "fantasy sci fi audiobooks open directory",
+        "audiobook collection shared folder"
+      ],
+      "lsiKeywords": [
+        "spoken word open directory",
+        "index of audiobooks mp3",
+        "unabridged audiobook directory",
+        "listen audiobooks free direct link",
+        "intitle index of audiobooks m4b mp3",
+        "raw apache server audiobook folder",
+        "google drive audiobooks collection",
+        "audible alternative direct download mp3",
+        "spoken word recordings open directory"
+      ],
+      "targetExtensions": [
+        ".mp3",
+        ".m4b",
+        ".flac",
+        ".zip"
+      ],
+      "dorkExample": "intext:\"Audiobook\" (mp3|m4b) intitle:\"index.of./\"",
+      "searchQuery": "audiobook mp3",
+      "summary": "Locate complete audiobooks, spoken word recordings, and literature audio archives in open web servers.",
+      "customIntro": "Audiobook enthusiasts searching for unabridged MP3 or M4B spoken audio books can locate dedicated open directories hosting classic and modern literature.",
+      "customDorkGuide": "SearchPro formats search queries pairing audiobook extensions with index of title operators.",
+      "customFaqs": [
+        {
+          "q": "What format is best for audiobooks?",
+          "a": "M4B format supports chapter markers and bookmarking, while MP3 offers universal compatibility across all media players."
+        }
+      ]
+    },
+    {
+      "id": "academic-research-paper-pdf-search",
+      "category": "text",
+      "slug": "academic-research-paper-pdf-search.html",
+      "h1": "Academic Research Papers & Scientific PDF Search Engine",
+      "title": "Academic Research Papers & Scientific PDF Search Engine | SearchPro",
+      "metaDescription": "Search public university servers and cloud directories for research papers, scientific journals, dissertations, and academic PDFs.",
+      "primaryKeywords": [
+        "research paper pdf search engine",
+        "academic paper google dork",
+        "university open directory pdf",
+        "find research papers free",
+        "research papers pdf open directory",
+        "academic journal papers google drive",
+        "university thesis dissertation open directory",
+        "scientific preprints pdf direct download",
+        "open access science papers search engine"
+      ],
+      "lsiKeywords": [
+        "site edu filetype pdf research",
+        "arxiv pdf mirror index",
+        "scientific paper open directory",
+        "phd thesis pdf finder",
+        "intitle index of research papers pdf",
+        "inurl edu research papers pdf",
+        "bypassing academic paywalls open directory",
+        "scientific literature raw pdf index",
+        "scholarly articles direct pdf links"
+      ],
+      "targetExtensions": [
+        ".pdf",
+        ".ps",
+        ".doc"
+      ],
+      "dorkExample": "site:edu filetype:pdf \"machine learning research\"",
+      "searchQuery": "machine learning research paper",
+      "summary": "Access scientific papers, university research archives, and technical reports across global educational domains.",
+      "customIntro": "University servers (.edu) host open research repositories, dissertations, and peer-reviewed journal preprints.",
+      "customDorkGuide": "SearchPro crafts site:edu filetype:pdf queries combined with your research topic to uncover academic papers.",
+      "customFaqs": [
+        {
+          "q": "How to search university databases for free research PDFs?",
+          "a": "Use site:edu filetype:pdf dorks in SearchPro to isolate open university PDF archives."
+        }
+      ]
+    },
+    {
+      "id": "roms-emulators-open-directory-finder",
+      "category": "software",
+      "slug": "roms-emulators-open-directory-finder.html",
+      "h1": "Retro Game ROMs & ISO Open Directory Finder",
+      "title": "Retro Game ROMs & ISO Open Directory Finder | SearchPro",
+      "metaDescription": "Find open directory repositories for retro video game ROMs, console ISOs, and emulator archives with SearchPro.",
+      "primaryKeywords": [
+        "roms open directory finder",
+        "retro game iso search",
+        "console roms index of",
+        "emulator roms download links",
+        "retro roms open directory download",
+        "emulator bios files open directory",
+        "ps1 ps2 psp roms open directory",
+        "nintendo snes gba roms open directory",
+        "mame arcade roms direct download"
+      ],
+      "lsiKeywords": [
+        "ps2 iso open directory",
+        "gameboy roms zip index",
+        "n64 roms directory finder",
+        "arcade romset index of",
+        "intitle index of roms iso bin chd",
+        "inurl roms retro games parent directory",
+        "retroarch cores and romsets directory",
+        "complete romset archive open directory",
+        "vintage video game preservation index"
+      ],
+      "targetExtensions": [
+        ".iso",
+        ".bin",
+        ".cue",
+        ".zip",
+        ".7z",
+        ".nes",
+        ".sfc"
+      ],
+      "dorkExample": "intext:\"ROMs\" (iso|bin|zip) intitle:\"index.of./\"",
+      "searchQuery": "retro game roms iso",
+      "summary": "Search open directories for classic retro console ROMs, CD-ROM images, and game archival files.",
+      "customIntro": "Retro gaming enthusiasts use emulator ROMs and console ISOs to preserve classic video games. Open directories store comprehensive ROM sets.",
+      "customDorkGuide": "SearchPro targets console ROM extensions (.iso, .bin, .nes, .sfc, .zip) inside web folder indexes.",
+      "customFaqs": [
+        {
+          "q": "What extensions are used for console game ROMs?",
+          "a": "Common extensions include .nes (NES), .sfc (SNES), .iso (PS2/GameCube), and .bin/.cue (PlayStation)."
+        }
+      ]
+    },
+    {
+      "id": "datasets-csv-json-open-directory",
+      "category": "text",
+      "slug": "datasets-csv-json-open-directory.html",
+      "h1": "AI Datasets, CSV & JSON Open Directory Search Engine",
+      "title": "AI Datasets, CSV & JSON Open Directory Search Engine | SearchPro",
+      "metaDescription": "Discover open directories and public cloud storage containing machine learning datasets, CSV tables, JSON files, and Parquet data dumps.",
+      "primaryKeywords": [
+        "ai dataset open directory",
+        "find csv datasets online",
+        "json dataset google drive search",
+        "open data directory finder",
+        "machine learning datasets open directory",
+        "public csv json datasets direct download",
+        "data science training datasets open directory",
+        "raw sql dump open directory search",
+        "big data parquet datasets open directory"
+      ],
+      "lsiKeywords": [
+        "parquet data open index",
+        "machine learning csv download",
+        "kaggle dataset mirror search",
+        "raw data server index",
+        "intitle index of dataset csv json parquet",
+        "inurl data open dataset parent directory",
+        "kaggle alternative public datasets directory",
+        "academic benchmark datasets direct download",
+        "open government data raw server index"
+      ],
+      "targetExtensions": [
+        ".csv",
+        ".json",
+        ".parquet",
+        ".sql",
+        ".h5",
+        ".zip"
+      ],
+      "dorkExample": "intext:\"dataset\" (csv|json|parquet) intitle:\"index.of./\"",
+      "searchQuery": "csv dataset",
+      "summary": "Target machine learning training sets, public CSV databases, JSON APIs, and structured data archives.",
+      "customIntro": "Data scientists and AI engineers require large CSV tables, JSON arrays, and Parquet data dumps for training machine learning models.",
+      "customDorkGuide": "SearchPro builds dorks combining data format extensions (.csv, .json, .parquet) with dataset keywords.",
+      "customFaqs": [
+        {
+          "q": "How to locate public CSV datasets?",
+          "a": "Select Text category in SearchPro and search your topic with CSV and JSON extensions checked."
+        }
+      ]
+    },
+    {
+      "id": "3d-models-stl-obj-open-directory",
+      "category": "software",
+      "slug": "3d-models-stl-obj-open-directory.html",
+      "h1": "3D Models, STL & OBJ Open Directory Search Engine",
+      "title": "3D Models, STL & OBJ Open Directory Search Engine | SearchPro",
+      "metaDescription": "Find open directories hosting 3D printing STL files, OBJ CAD models, FBX assets, and Blender files with SearchPro.",
+      "primaryKeywords": [
+        "3d printing stl open directory",
+        "3d models obj index of",
+        "cad files open directory",
+        "free stl files finder",
+        "3d models stl obj fbx open directory",
+        "blender 3d assets open directory",
+        "game development 3d models directory",
+        "free cad step iges files open directory",
+        "unreal engine 3d asset packs directory"
+      ],
+      "lsiKeywords": [
+        "blender 3d assets index",
+        "fbx model open directory",
+        "3d printable files search engine",
+        "step cad files open server",
+        "intitle index of stl obj blend fbx",
+        "3d printable models raw server directory",
+        "open repository for 3d render assets",
+        "cgi 3d models direct download links",
+        "high poly 3d scans open directory"
+      ],
+      "targetExtensions": [
+        ".stl",
+        ".obj",
+        ".fbx",
+        ".blend",
+        ".step"
+      ],
+      "dorkExample": "intext:\"3d model\" (stl|obj|blend) intitle:\"index.of./\"",
+      "searchQuery": "stl 3d print models",
+      "summary": "Scan raw web directories for 3D printer STL models, CAD engineering assets, and CGI render objects.",
+      "customIntro": "3D printing hobbyists and CAD engineers search for STL mesh files, STEP assemblies, and OBJ render models hosted in open server directories.",
+      "customDorkGuide": "SearchPro targets 3D format specifiers (.stl, .obj, .blend) in open folder trees.",
+      "customFaqs": [
+        {
+          "q": "What file format is required for 3D printing?",
+          "a": "STL (.stl) is the standard format used by 3D slicer software to prepare models for 3D printing."
+        }
+      ]
+    },
+    {
+      "id": "anime-mkv-open-directory-finder",
+      "category": "video",
+      "slug": "anime-mkv-open-directory-finder.html",
+      "h1": "Anime MKV & Dual Audio Open Directory Finder",
+      "title": "Anime MKV & Dual Audio Open Directory Finder | SearchPro",
+      "metaDescription": "Locate open directories hosting dual audio anime series, 1080p MKV anime episodes, and complete season archives.",
+      "primaryKeywords": [
+        "anime open directory finder",
+        "anime mkv index of",
+        "dual audio anime open directory",
+        "1080p anime direct download",
+        "anime 1080p mkv open directory",
+        "raw anime episodes dual audio directory",
+        "anime batch direct download open directory",
+        "subbed dubbed anime series open directory",
+        "uncompressed anime bluray remux index"
+      ],
+      "lsiKeywords": [
+        "subbed anime mkv open server",
+        "dubbed anime index of",
+        "raw anime video directory",
+        "complete anime batch mkv",
+        "intitle index of anime mkv mp4",
+        "nyaa alternative direct download open directory",
+        "anime ost soundtrack open directory",
+        "inurl anime episodes parent directory",
+        "hi10p anime raw server stream"
+      ],
+      "targetExtensions": [
+        ".mkv",
+        ".mp4",
+        ".avi"
+      ],
+      "dorkExample": "intext:\"1080p\" (mkv|mp4) intitle:\"index.of./anime\"",
+      "searchQuery": "anime 1080p mkv",
+      "summary": "Find open server archives containing subbed and dubbed anime episodes in high-definition MKV formats.",
+      "customIntro": "Anime fans prefer 1080p MKV episodes with soft subtitles and dual audio tracks. Open anime server directories host complete season batches.",
+      "customDorkGuide": "SearchPro targets anime MKV directory paths with resolution and audio filters.",
+      "customFaqs": [
+        {
+          "q": "How to download dual audio anime episodes?",
+          "a": "Select Video in SearchPro and type the anime title to find raw server directory folders containing dual audio MKVs."
+        }
+      ]
+    },
+    {
+      "id": "google-drive-textbooks-pdf-search",
+      "category": "text",
+      "slug": "google-drive-textbooks-pdf-search.html",
+      "h1": "Google Drive College Textbooks & Solution Manuals Finder",
+      "title": "Google Drive College Textbooks & Solution Manuals Finder | SearchPro",
+      "metaDescription": "Locate public Google Drive shared folders hosting college textbooks, solution manuals, test banks, and academic PDFs.",
+      "primaryKeywords": [
+        "google drive textbooks pdf",
+        "free college textbooks google drive",
+        "textbook pdf google drive link",
+        "solution manuals index of",
+        "college textbooks pdf google drive",
+        "university course textbooks shared folder",
+        "medical textbooks pdf google drive",
+        "engineering textbooks open directory",
+        "free pdf textbook search engine"
+      ],
+      "lsiKeywords": [
+        "university textbook shared drive",
+        "engineering textbooks pdf google drive",
+        "medical textbooks google drive folder",
+        "pdf textbook search engine",
+        "site drive google com textbooks pdf",
+        "intitle index of college textbooks pdf",
+        "libgen alternative google drive folders",
+        "expensive textbooks direct pdf download",
+        "higher education syllabus books drive"
+      ],
+      "targetExtensions": [
+        "site:drive.google.com",
+        ".pdf",
+        ".epub"
+      ],
+      "dorkExample": "site:drive.google.com/drive/folders/ \"textbooks\"",
+      "searchQuery": "college textbooks pdf",
+      "summary": "Discover public Google Drive repositories hosting university textbooks, engineering reference books, and solution manuals.",
+      "customIntro": "College textbooks and academic study guides are frequently shared in public Google Drive directories by student groups and university study networks.",
+      "customDorkGuide": "SearchPro crafts site:drive.google.com/drive/folders/ searches targeting textbook titles and course codes.",
+      "customFaqs": [
+        {
+          "q": "How to find college textbooks on Google Drive?",
+          "a": "Use the Text category in SearchPro and enter your course code or textbook title to search public drive.google.com folders."
+        }
+      ]
+    },
+    {
+      "id": "github-open-directory-dorks",
+      "category": "software",
+      "slug": "github-open-directory-dorks.html",
+      "h1": "GitHub Repositories & Raw File Search Dorks",
+      "title": "GitHub Repositories & Raw File Search Dorks | SearchPro",
+      "metaDescription": "Search GitHub repositories, raw code files, and public developer gists using precision Google dork operators.",
+      "primaryKeywords": [
+        "open directory finder github",
+        "google dorks github list",
+        "site github.com raw file search",
+        "github public repositories search",
+        "github raw file search dorks",
+        "github exposed config files search",
+        "github repository open files index",
+        "github public gist file search engine",
+        "github advanced search code operators"
+      ],
+      "lsiKeywords": [
+        "github raw file extension search",
+        "github gist search engine",
+        "github dork cheat sheet",
+        "github open source code index",
+        "site github com raw file search",
+        "github osint reconnaissance dorks",
+        "inurl github io open directory",
+        "github secret key and token dorks",
+        "developer public repositories file finder"
+      ],
+      "targetExtensions": [
+        "site:github.com",
+        "site:raw.githubusercontent.com"
+      ],
+      "dorkExample": "site:github.com inurl:\"raw\" \"config\"",
+      "searchQuery": "github raw file search",
+      "summary": "Search open source GitHub repositories and raw Gist snippets for configuration files, scripts, and developer tools.",
+      "customIntro": "GitHub is the world's largest repository host. Finding public code snippets, configuration templates, and open-source scripts on GitHub requires targeting site:github.com and site:raw.githubusercontent.com.",
+      "customDorkGuide": "SearchPro formats GitHub specific Google dorks targeting repository branches and raw file outputs.",
+      "customFaqs": [
+        {
+          "q": "How to search raw GitHub files with Google?",
+          "a": "Use site:raw.githubusercontent.com with your file extension or keyword in SearchPro."
+        }
+      ]
+    },
+    {
+      "id": "apk-mod-open-directory-finder",
+      "category": "software",
+      "slug": "apk-mod-open-directory-finder.html",
+      "h1": "Android APK Packages & App Open Directory Finder",
+      "title": "Android APK Packages & App Open Directory Finder | SearchPro",
+      "metaDescription": "Search open directory web servers for Android APK installation packages, app backups, and developer builds.",
+      "primaryKeywords": [
+        "apk open directory",
+        "android app apk index of",
+        "apk open directory finder",
+        "direct apk download links",
+        "android apk open directory download",
+        "mod apk direct download server index",
+        "clean apk repository open directory",
+        "android xapk obb files open directory",
+        "fdroid open source apk mirror directory"
+      ],
+      "lsiKeywords": [
+        "xapk open directory",
+        "android apk backup server index",
+        "download apk direct link",
+        "open server android apps",
+        "intitle index of apk xapk obb",
+        "inurl apks android applications download",
+        "ad free apk download raw server",
+        "unmodified android packages directory",
+        "google play alternative direct apk links"
+      ],
+      "targetExtensions": [
+        ".apk",
+        ".xapk",
+        ".zip"
+      ],
+      "dorkExample": "intext:\"android\" (apk|xapk) intitle:\"index.of./\"",
+      "searchQuery": "android apk package",
+      "summary": "Scan public web servers and developer mirrors for Android APK installers and backup packages.",
+      "customIntro": "Android developers and power users often host APK installation files on open web servers. Accessing open APK directories allows direct app installation.",
+      "customDorkGuide": "SearchPro formats intext:\"app name\" (apk|xapk) intitle:\"index.of./\" to uncover open Android app mirrors.",
+      "customFaqs": [
+        {
+          "q": "What is an XAPK file?",
+          "a": "XAPK is a package container containing the main APK file along with OBB asset files required by complex Android apps."
+        }
+      ]
+    },
+    {
+      "id": "manga-cbz-epub-open-directory",
+      "category": "comics",
+      "slug": "manga-cbz-epub-open-directory.html",
+      "h1": "Manga Chapters CBZ & EPUB Open Directory Finder",
+      "title": "Manga Chapters CBZ & EPUB Open Directory Finder | SearchPro",
+      "metaDescription": "Find open directory archives hosting complete manga series, CBZ chapters, EPUB volumes, and graphic novel archives.",
+      "primaryKeywords": [
+        "manga open directory finder",
+        "manga cbz zip index of",
+        "manga epub google drive search",
+        "digital manga folder finder",
+        "manga cbz epub open directory download",
+        "complete manga volumes direct download",
+        "japanese light novels epub open directory",
+        "manhwa webtoons cbz open directory",
+        "digital manga archive raw server index"
+      ],
+      "lsiKeywords": [
+        "subbed manga open directory",
+        "manga series batch download",
+        "cbr manga archive",
+        "raw manga open server",
+        "intitle index of manga cbz epub",
+        "inurl manga chapters parent directory",
+        "offline manga reader files open directory",
+        "manga scanlation raw directory listing",
+        "high quality digital manga scans"
+      ],
+      "targetExtensions": [
+        ".cbz",
+        ".cbr",
+        ".epub",
+        ".pdf",
+        ".zip"
+      ],
+      "dorkExample": "intext:\"manga\" (cbz|epub) intitle:\"index.of./\"",
+      "searchQuery": "manga series cbz",
+      "summary": "Discover open directories and public cloud storage containing complete manga series in CBZ, CBR, and EPUB formats.",
+      "customIntro": "Manga readers prefer high-resolution CBZ or EPUB volume packages. Open manga directories store organized series folders for thousands of titles.",
+      "customDorkGuide": "SearchPro pairs manga keywords with extension filters (.cbz, .epub, .zip) in root directory listings.",
+      "customFaqs": [
+        {
+          "q": "How to search for manga CBZ volumes?",
+          "a": "Select Comics in SearchPro and type the manga title to locate open folder directories."
+        }
+      ]
+    },
+    {
+      "id": "torrent-magnet-to-direct-link",
+      "category": "compressed",
+      "slug": "torrent-magnet-to-direct-link.html",
+      "h1": "Torrent Magnet to Direct Download & Seedbox Finder",
+      "title": "Torrent Magnet to Direct Download & Seedbox Finder | SearchPro",
+      "metaDescription": "Locate public seedbox HTTP mirrors and direct web download links for large torrent data sets using SearchPro.",
+      "primaryKeywords": [
+        "magnet link to direct download",
+        "torrent direct link search",
+        "public seedbox open directory",
+        "http direct download mirror",
+        "magnet link direct download conversion",
+        "debrid alternative direct link search",
+        "torrent to cloud link finder",
+        "instant direct download no torrent client",
+        "seedbox direct link open directory"
+      ],
+      "lsiKeywords": [
+        "convert magnet to direct link",
+        "fast seedbox index of",
+        "http direct stream server",
+        "bypass torrent client ddl",
+        "http direct link instead of magnet",
+        "bypassing isp torrent blocks with ddl",
+        "instant cloud seedbox direct download",
+        "p2p to http file converter alternatives",
+        "cloud cache direct download finder"
+      ],
+      "targetExtensions": [
+        ".zip",
+        ".tar",
+        ".mkv",
+        ".iso"
+      ],
+      "dorkExample": "intext:\"seedbox\" (mkv|zip) intitle:\"index.of./\"",
+      "searchQuery": "seedbox direct link",
+      "summary": "Find public HTTP seedbox mirrors and direct download web links for massive data archives.",
+      "customIntro": "Public seedbox mirrors cache torrent data onto high-speed HTTP servers. Finding these seedbox open directories allows users to download large files at full gigabit speeds without P2P seeding.",
+      "customDorkGuide": "SearchPro formats search dorks targeting public seedbox folder indexes and HTTP download mirrors.",
+      "customFaqs": [
+        {
+          "q": "What is a public seedbox HTTP mirror?",
+          "a": "A seedbox mirror is a high-speed web server that downloads torrent files and exposes them via HTTP for direct browser download."
+        }
+      ]
+    },
+    {
+      "id": "discord-public-file-search-engine",
+      "category": "pictures",
+      "slug": "discord-public-file-search-engine.html",
+      "h1": "Discord CDN Public Attachments & Media Search Engine",
+      "title": "Discord CDN Public Attachments & Media Search Engine | SearchPro",
+      "metaDescription": "Search public Discord media uploads, cdn.discordapp.com attachments, and shared images using custom Google dorks.",
+      "primaryKeywords": [
+        "discord media search engine",
+        "cdn discordapp files search",
+        "site cdn.discordapp.com attachments",
+        "find discord public uploads",
+        "discord cdn file attachment search",
+        "discord public bot file search",
+        "find files uploaded to discord servers",
+        "discord media archive open directory",
+        "discord attachment download link finder"
+      ],
+      "lsiKeywords": [
+        "discord attachments google dork",
+        "discord image link search",
+        "site media.discordapp.net search",
+        "discord file archive",
+        "site cdn discordapp com attachments search",
+        "discord shared documents repository",
+        "community shared files on discord",
+        "discord file storage dorks",
+        "intitle discord attachments archive"
+      ],
+      "targetExtensions": [
+        "site:cdn.discordapp.com",
+        "site:media.discordapp.net"
+      ],
+      "dorkExample": "site:cdn.discordapp.com/attachments/ \"png\"",
+      "searchQuery": "discord media attachments",
+      "summary": "Uncover public media uploads and shared attachments hosted on Discord's CDN network.",
+      "customIntro": "Discord users upload millions of images, documents, and attachments daily to Discord's content delivery network (`cdn.discordapp.com`). Publicly shared attachment URLs indexed by search engines can be queried directly.",
+      "customDorkGuide": "SearchPro targets site:cdn.discordapp.com/attachments/ URL patterns with specific file format filters.",
+      "customFaqs": [
+        {
+          "q": "How to search for files hosted on Discord CDN?",
+          "a": "Use site:cdn.discordapp.com in SearchPro combined with keywords or file extensions."
+        }
+      ]
+    },
+    {
+      "id": "telegram-channel-file-search",
+      "category": "text",
+      "slug": "telegram-channel-file-search.html",
+      "h1": "Telegram Public Channels & File Repository Finder",
+      "title": "Telegram Public Channels & File Repository Finder | SearchPro",
+      "metaDescription": "Search public Telegram channel posts, t.me shared links, and cloud drive mirrors shared on Telegram with SearchPro.",
+      "primaryKeywords": [
+        "telegram files search engine",
+        "telegram google drive links",
+        "site t.me file search",
+        "public telegram channel finder",
+        "telegram channel documents search engine",
+        "telegram public files link finder",
+        "find ebooks movies on telegram channels",
+        "t me public channel file search",
+        "telegram cloud storage search online"
+      ],
+      "lsiKeywords": [
+        "telegram channel drive link",
+        "t.me shared folder search",
+        "telegram file repository",
+        "find telegram media links",
+        "site t me s public file search",
+        "telegram document crawler tool",
+        "telegram shared media links database",
+        "telegram channel directory for files",
+        "telegram web file finder"
+      ],
+      "targetExtensions": [
+        "site:t.me",
+        "site:t.me/s/"
+      ],
+      "dorkExample": "site:t.me/s/ \"google drive\"",
+      "searchQuery": "telegram channel drive link",
+      "summary": "Discover public Telegram channels sharing cloud drive links, books, software, and media repositories.",
+      "customIntro": "Telegram channels are widely used to share public cloud links, educational resources, and file repositories. Querying web-preview URLs (`t.me/s/`) unlocks direct access to shared file links.",
+      "customDorkGuide": "SearchPro formats site:t.me/s/ Google dorks combined with file sharing terms like \"drive.google.com\" or \"mega.nz\".",
+      "customFaqs": [
+        {
+          "q": "How to search for Telegram channel drive links?",
+          "a": "Use site:t.me/s/ with your topic in SearchPro to isolate public web-preview Telegram channel posts."
+        }
+      ]
+    },
+    {
+      "id": "web-scraper-directory-indexer",
+      "category": "software",
+      "slug": "web-scraper-directory-indexer.html",
+      "h1": "Website Directory Scanner & URL Fuzzer Alternative",
+      "title": "Website Directory Scanner & URL Fuzzer Alternative | SearchPro",
+      "metaDescription": "Perform online website directory scanning, OSINT file discovery, and URL fuzzing using client-side Google dorks.",
+      "primaryKeywords": [
+        "website directory scanner online",
+        "url fuzzer online search",
+        "web directory crawler dork",
+        "find specific file websites github",
+        "open directory web scraper python",
+        "automated directory index crawler",
+        "recursive wget open directory download",
+        "curl open directory batch download",
+        "open directory link extractor online"
+      ],
+      "lsiKeywords": [
+        "dirbuster online alternative",
+        "ffuf google dork search",
+        "gobuster web search dork",
+        "osint directory scanner",
+        "wget recursive download index of",
+        "python requests open directory parser",
+        "batch download files from open server",
+        "directory listing mirror tool",
+        "headless browser file scraping"
+      ],
+      "targetExtensions": [
+        "intitle:\"index of\"",
+        "inurl:admin",
+        "inurl:backup"
+      ],
+      "dorkExample": "site:example.com intitle:\"index of\"",
+      "searchQuery": "website directory scanner",
+      "summary": "Discover exposed web directories and subfolders online without installing CLI dirbuster or ffuf tools.",
+      "customIntro": "Cybersecurity analysts and web pentesters use CLI tools like DirBuster or FFUF to find hidden directories. SearchPro leverages Google's massive web crawler index to perform zero-install online directory scanning.",
+      "customDorkGuide": "SearchPro combines site:domain.com with intitle:\"index of\" and inurl: operators to perform passive web directory fuzzing.",
+      "customFaqs": [
+        {
+          "q": "How does SearchPro act as an online URL fuzzer?",
+          "a": "By automating passive Google Dork search operators, SearchPro discovers exposed web directories indexed by search engines without sending brute-force HTTP traffic."
+        }
+      ]
+    },
+    {
+      "id": "vst-plugins-audio-open-directory",
+      "category": "audio",
+      "slug": "vst-plugins-audio-open-directory.html",
+      "h1": "VST Plugins, Audio Presets & Synth Kits Open Directory",
+      "title": "VST Plugins, Audio Presets & Synth Kits Open Directory | SearchPro",
+      "metaDescription": "Find open directory archives hosting VST plugins, Serum presets, Kontakt instruments, and audio software installers.",
+      "primaryKeywords": [
+        "vst plugins open directory",
+        "music production vst zip",
+        "serum presets index of",
+        "kontakt library open directory",
+        "vst plugins open directory download",
+        "vst3 aax audio plugins directory",
+        "free music production instruments vst",
+        "mixing mastering audio plugins directory",
+        "kontakt libraries open directory"
+      ],
+      "lsiKeywords": [
+        "audio plugin setup index",
+        "vst3 open directory finder",
+        "synth presets zip search",
+        "daw software index of",
+        "intitle index of vst vst3 dll component",
+        "inurl vst plugins audio production",
+        "daw synthesisers open directory",
+        "music producer vst archive",
+        "audio effect plugins direct download"
+      ],
+      "targetExtensions": [
+        ".dll",
+        ".vst3",
+        ".component",
+        ".zip",
+        ".rar"
+      ],
+      "dorkExample": "intext:\"vst\" (zip|rar|vst3) intitle:\"index.of./\"",
+      "searchQuery": "vst plugins audio zip",
+      "summary": "Search open directories for VST audio plugins, synthesizer presets, and DAW instrument libraries.",
+      "customIntro": "Music producers and audio engineers use VST plugins, Serum synth presets, and Kontakt libraries. Open audio directories host instrument software setups and preset archives.",
+      "customDorkGuide": "SearchPro formats search queries pairing VST format specifiers (.vst3, .component, .zip) with synth preset terms.",
+      "customFaqs": [
+        {
+          "q": "How to search for VST3 plugins and synth presets?",
+          "a": "Select Audio category in SearchPro and input your plugin or synth name to search open software server archives."
+        }
+      ]
+    },
+    {
+      "id": "3d-printing-stl-models-search",
+      "category": "software",
+      "slug": "3d-printing-stl-models-search.html",
+      "h1": "3D Printing STL Files & CAD Google Drive Finder",
+      "title": "3D Printing STL Files & CAD Google Drive Finder | SearchPro",
+      "metaDescription": "Find public Google Drive folders and open directories hosting 3D printing STL files, G-code packages, and CAD models.",
+      "primaryKeywords": [
+        "stl files google drive",
+        "3d print stl open index",
+        "free 3d printing models drive",
+        "cad stl folder link",
+        "3d printing stl files open directory",
+        "thingiverse alternative open directory",
+        "printables 3d stl models directory",
+        "functional 3d print models open directory",
+        "free 3d slicer stl files download"
+      ],
+      "lsiKeywords": [
+        "thingiverse alternative google drive",
+        "3d print gcode index of",
+        "cad models shared drive",
+        "stl mesh files search",
+        "intitle index of stl 3dprinting",
+        "inurl stl 3d models parent directory",
+        "open source 3d mechanical parts stl",
+        "miniatures tabletop stl open directory",
+        "additive manufacturing stl repository"
+      ],
+      "targetExtensions": [
+        "site:drive.google.com",
+        ".stl",
+        ".obj",
+        ".gcode"
+      ],
+      "dorkExample": "site:drive.google.com/drive/folders/ \"stl\"",
+      "searchQuery": "3d print stl google drive",
+      "summary": "Discover public Google Drive folders packed with 3D printing STL files, CAD models, and G-code slices.",
+      "customIntro": "3D printing makers frequently share large STL model libraries and G-code slices via public Google Drive shared folders.",
+      "customDorkGuide": "SearchPro targets site:drive.google.com/drive/folders/ with STL and CAD keyword specifiers.",
+      "customFaqs": [
+        {
+          "q": "How to search Google Drive for 3D printing STL models?",
+          "a": "Use SearchPro with Software category and type your model name (e.g. miniature or cosplay) to query shared Google Drive folders."
+        }
+      ]
+    },
+    {
+      "id": "dork-generator-tool",
+      "category": "software",
+      "slug": "dork-generator-tool.html",
+      "h1": "Online Google Dork Generator Tool & Query Builder",
+      "title": "Online Google Dork Generator Tool & Query Builder | SearchPro",
+      "metaDescription": "Free online Google Dork generator tool and OSINT query builder. Easily generate site, filetype, intext, and intitle search dorks.",
+      "primaryKeywords": [
+        "google dork generator online",
+        "osint query builder tool",
+        "google dorks builder",
+        "open directory search generator",
+        "automated google dork generator tool",
+        "google search operator builder online",
+        "custom file search dork generator",
+        "intitle filetype dork creator",
+        "advanced search string generator"
+      ],
+      "lsiKeywords": [
+        "online google dork creator",
+        "dork string generator",
+        "advanced google search query builder",
+        "dorking tool online",
+        "how to build google dorks for files",
+        "google dorking tool client side",
+        "interactive search query constructor",
+        "negative keyword search dork generator",
+        "security researcher dork builder"
+      ],
+      "targetExtensions": [
+        "site:",
+        "inurl:",
+        "intitle:",
+        "intext:",
+        "filetype:"
+      ],
+      "dorkExample": "site:example.com filetype:pdf intitle:\"index of\"",
+      "searchQuery": "google dork generator",
+      "summary": "Interactive web-based Google Dork generator and OSINT search operator string builder.",
+      "customIntro": "Google Dorks are specific search operator strings that isolate indexed web server folders, file extensions, and cloud drive directories. SearchPro acts as a free, web-based Google Dork Generator tool.",
+      "customDorkGuide": "Select your target search site, category, and file extensions to automatically output an optimized Google Dork payload.",
+      "customFaqs": [
+        {
+          "q": "What is a Google Dork generator?",
+          "a": "A Google Dork generator is an interactive web tool that constructs complex Google search operator strings without requiring manual syntax typing."
+        }
+      ]
+    },
+    {
+      "id": "dorks-cheat-sheet",
+      "category": "text",
+      "slug": "dorks-cheat-sheet.html",
+      "h1": "Google Dorks Cheat Sheet & Search Operators Reference",
+      "title": "Google Dorks Cheat Sheet & Search Operators Reference | SearchPro",
+      "metaDescription": "Complete Google Dorks cheat sheet and search operators reference guide. Master site:, intitle:, intext:, filetype:, and inurl: syntax.",
+      "primaryKeywords": [
+        "google dorks cheat sheet",
+        "search operators list",
+        "google search dork cheat sheet 2026",
+        "advanced search operators guide",
+        "google dorks cheat sheet 2026",
+        "all google search operators list pdf",
+        "google hacking database operators guide",
+        "filetype intitle inurl dork reference",
+        "advanced search syntax cheat sheet"
+      ],
+      "lsiKeywords": [
+        "google search syntax cheat sheet",
+        "intitle intext filetype syntax",
+        "google hacking cheat sheet",
+        "osint search operators list",
+        "google dorking masterclass syntax",
+        "boolean operators in google search",
+        "site filter search tricks cheat sheet",
+        "finding hidden files with google dorks",
+        "osint search operator cheat sheet"
+      ],
+      "targetExtensions": [
+        "site:",
+        "inurl:",
+        "intitle:",
+        "intext:",
+        "ext:"
+      ],
+      "dorkExample": "intitle:\"index of\" -inurl:(html|php) ext:(mkv|pdf|iso)",
+      "searchQuery": "google dorks cheat sheet",
+      "summary": "Comprehensive reference guide and cheat sheet for advanced Google search operators and dorking syntax.",
+      "customIntro": "Mastering Google search operators allows researchers, system administrators, and students to unlock precise web index results. This cheat sheet details all major Google dork syntax rules.",
+      "customDorkGuide": "Common operators: `site:` (restrict to domain), `filetype:` or `ext:` (specify format), `intitle:` (page title match), `intext:` (body content match).",
+      "customFaqs": [
+        {
+          "q": "What are the most useful Google Dork operators?",
+          "a": "The top operators are site:, filetype:, intitle:\"index of\", intext:, and negative operators (-word)."
+        }
+      ]
+    },
+    {
+      "id": "free-stock-videos-4k-open-directory",
+      "category": "video",
+      "slug": "free-stock-videos-4k-open-directory.html",
+      "h1": "4K Stock Videos & B-Roll Footage Open Directory",
+      "title": "4K Stock Videos & B-Roll Footage Open Directory | SearchPro",
+      "metaDescription": "Find open directory servers hosting 4K stock video clips, royalty-free B-roll footage, and uncompressed MP4 background media.",
+      "primaryKeywords": [
+        "stock video 4k open directory",
+        "free footage mp4 index of",
+        "b-roll video open server",
+        "uncompressed stock video finder",
+        "free stock footage 4k open directory",
+        "b roll stock video clips directory",
+        "royalty free 4k video open directory",
+        "video editor stock footage directory",
+        "drone footage 4k open directory"
+      ],
+      "lsiKeywords": [
+        "4k B-roll open directory",
+        "royalty free video index",
+        "stock footage mp4 zip",
+        "drone video clips open index",
+        "intitle index of stock videos mp4",
+        "inurl b roll stock footage 2160p",
+        "commercial use video clips open directory",
+        "filmmaker raw stock video index",
+        "free video background loops directory"
+      ],
+      "targetExtensions": [
+        ".mp4",
+        ".mov",
+        ".mkv",
+        ".webm"
+      ],
+      "dorkExample": "intext:\"stock video\" (mp4|mov) intitle:\"index.of./\"",
+      "searchQuery": "4k stock video mp4",
+      "summary": "Locate open video server directories hosting 4K stock video clips, drone footage, and editing B-roll.",
+      "customIntro": "Video editors and content creators need uncompressed 4K stock video clips and drone B-roll footage. Open video directories store raw video clips without watermarks.",
+      "customDorkGuide": "SearchPro formats search dorks targeting .mp4, .mov, and .webm stock video server indexes.",
+      "customFaqs": [
+        {
+          "q": "How to search for 4K stock video open directories?",
+          "a": "Select Video 4K category in SearchPro and type stock footage terms to locate open server directories."
+        }
+      ]
+    },
+    {
+      "id": "gdrive-audio-music-shared-folders",
+      "category": "audio",
+      "slug": "gdrive-audio-music-shared-folders.html",
+      "h1": "Google Drive Music Folders & FLAC Audio Links",
+      "title": "Google Drive Music Folders & FLAC Audio Links | SearchPro",
+      "metaDescription": "Discover public Google Drive shared folders packed with FLAC lossless music, MP3 discographies, and audio archives.",
+      "primaryKeywords": [
+        "google drive flac music folder",
+        "gdrive music links",
+        "public google drive audio shared folder",
+        "google drive mp3 discography",
+        "google drive music collection shared",
+        "google drive flac discographies link",
+        "find music albums on google drive",
+        "public google drive audio folder",
+        "uncompressed audio library google drive"
+      ],
+      "lsiKeywords": [
+        "gdrive flac album folder",
+        "drive google com music link",
+        "shared audio folder google drive",
+        "hi-res music drive link",
+        "site drive google com audio mp3 flac",
+        "google drive mp3 playlist shared folder",
+        "audiophile music folders google drive",
+        "inurl drive google com open audio",
+        "shared music cloud drive directory"
+      ],
+      "targetExtensions": [
+        "site:drive.google.com",
+        ".flac",
+        ".mp3"
+      ],
+      "dorkExample": "site:drive.google.com/drive/folders/ \"music\"",
+      "searchQuery": "google drive music flac",
+      "summary": "Search public Google Drive shared folders for lossless FLAC albums and MP3 discographies.",
+      "customIntro": "Music collectors frequently share FLAC discographies and studio audio files in public Google Drive folders.",
+      "customDorkGuide": "SearchPro builds site:drive.google.com/drive/folders/ searches targeting music and audio terms.",
+      "customFaqs": [
+        {
+          "q": "How to search Google Drive for FLAC music albums?",
+          "a": "Choose Audio category in SearchPro and type your artist name to search public drive.google.com folders."
+        }
+      ]
+    },
+    {
+      "id": "archive-org-open-directory-dorks",
+      "category": "compressed",
+      "slug": "archive-org-open-directory-dorks.html",
+      "h1": "Internet Archive & Archive.org Direct File Search Dorks",
+      "title": "Internet Archive & Archive.org Direct File Search Dorks | SearchPro",
+      "metaDescription": "Search Internet Archive (archive.org) public item downloads, direct file directories, and media collections with SearchPro.",
+      "primaryKeywords": [
+        "archive org dorks",
+        "internet archive public files",
+        "site archive.org details search",
+        "archive.org direct download links",
+        "archive org file search dorks",
+        "internet archive open collection search",
+        "wayback machine file direct download",
+        "archive org public media library search",
+        "archive org raw data dump finder"
+      ],
+      "lsiKeywords": [
+        "archive.org download dork",
+        "internet archive media index",
+        "archive org item search",
+        "wayback machine direct link",
+        "site archive org details download files",
+        "internet archive software library dorks",
+        "vintage media archive org search",
+        "intitle index of archive org items",
+        "public domain archives search operator"
+      ],
+      "targetExtensions": [
+        "site:archive.org/details/",
+        "site:archive.org/download/"
+      ],
+      "dorkExample": "site:archive.org/download/ \"iso\"",
+      "searchQuery": "internet archive direct download",
+      "summary": "Search millions of historic software ISOs, public domain books, and media files on Internet Archive (archive.org).",
+      "customIntro": "Internet Archive (`archive.org`) is the web's largest public domain digital library, hosting millions of free books, software ISOs, and audio recordings.",
+      "customDorkGuide": "SearchPro targets site:archive.org/download/ and site:archive.org/details/ URL structures for direct downloads.",
+      "customFaqs": [
+        {
+          "q": "How to search direct download links on Internet Archive?",
+          "a": "Use site:archive.org/download/ in SearchPro combined with your keyword or file extension."
+        }
+      ]
+    },
+    {
+      "id": "obsidian-notion-templates-pdf-dorks",
+      "category": "text",
+      "slug": "obsidian-notion-templates-pdf-dorks.html",
+      "h1": "Obsidian Vaults, Notion Templates & Productivity Guides",
+      "title": "Obsidian Vaults, Notion Templates & Productivity Guides | SearchPro",
+      "metaDescription": "Find public Obsidian markdown vaults, shared Notion templates, and productivity PDF cheat sheets with SearchPro.",
+      "primaryKeywords": [
+        "obsidian templates google drive",
+        "notion template pdf",
+        "public obsidian vault search",
+        "shared notion page dorks",
+        "obsidian templates md open directory",
+        "notion workspace templates shared link",
+        "personal knowledge management templates",
+        "markdown notes templates open directory",
+        "productivity templates direct download"
+      ],
+      "lsiKeywords": [
+        "obsidian md notes index",
+        "notion site public folder",
+        "productivity system pdf dork",
+        "second brain notes index",
+        "intitle index of obsidian vault md",
+        "inurl notion site templates shared",
+        "second brain markdown notes directory",
+        "bullet journal digital templates pdf",
+        "open source obsidian vaults"
+      ],
+      "targetExtensions": [
+        "site:notion.site",
+        "site:drive.google.com",
+        ".md",
+        ".pdf"
+      ],
+      "dorkExample": "site:notion.site \"template\"",
+      "searchQuery": "notion template shared",
+      "summary": "Discover public Obsidian PKM vaults, shared Notion workspace templates, and productivity guides.",
+      "customIntro": "Productivity enthusiasts share Obsidian markdown vaults and Notion template pages. Public Notion pages (`site:notion.site`) can be queried with Google dorks.",
+      "customDorkGuide": "SearchPro targets site:notion.site and markdown vault drive folders.",
+      "customFaqs": [
+        {
+          "q": "How to search for shared Notion templates on Google?",
+          "a": "Use site:notion.site in SearchPro along with your workflow topic."
+        }
+      ]
+    },
+    {
+      "id": "kali-linux-tools-iso-open-directory",
+      "category": "software",
+      "slug": "kali-linux-tools-iso-open-directory.html",
+      "h1": "Kali Linux, Security Tools & Penetration Testing ISOs",
+      "title": "Kali Linux, Security Tools & Penetration Testing ISOs | SearchPro",
+      "metaDescription": "Locate open directory mirrors hosting Kali Linux ISOs, cybersecurity tool packages, and pentesting distributions.",
+      "primaryKeywords": [
+        "kali linux open directory",
+        "security tools iso index",
+        "pentest distro open directory",
+        "cybersecurity tools mirror",
+        "kali linux iso open directory download",
+        "penetration testing tools open directory",
+        "cybersecurity wordlists open directory",
+        "security distros parrot blackarch iso",
+        "ethical hacking software open directory"
+      ],
+      "lsiKeywords": [
+        "parrot os iso open directory",
+        "metasploit package open server",
+        "wireshark installer index",
+        "security distros mirror",
+        "intitle index of kali linux iso",
+        "inurl wordlists rockyou txt open directory",
+        "security auditing tools direct download",
+        "network security utilities raw directory",
+        "infosec tools repository open access"
+      ],
+      "targetExtensions": [
+        ".iso",
+        ".ova",
+        ".7z",
+        ".tar.gz"
+      ],
+      "dorkExample": "intext:\"kali-linux\" (iso|ova) intitle:\"index.of./\"",
+      "searchQuery": "kali linux iso setup",
+      "summary": "Scan open directory mirrors for Kali Linux installation ISOs, VirtualBox OVA images, and cybersecurity distributions.",
+      "customIntro": "Cybersecurity professionals and ethical hackers require Linux penetration testing distributions like Kali Linux or Parrot OS. Open mirrors provide high-speed ISO downloads.",
+      "customDorkGuide": "SearchPro formats search queries isolating .iso and .ova cybersecurity distribution builds.",
+      "customFaqs": [
+        {
+          "q": "How to find Kali Linux ISO mirrors?",
+          "a": "Select Software category in SearchPro and type Kali Linux to target raw ISO mirror directories."
+        }
+      ]
+    },
+    {
+      "id": "fonts-ttf-otf-open-directory",
+      "category": "pictures",
+      "slug": "fonts-ttf-otf-open-directory.html",
+      "h1": "Typeface Fonts TTF, OTF & WOFF Open Directory Finder",
+      "title": "Typeface Fonts TTF, OTF & WOFF Open Directory Finder | SearchPro",
+      "metaDescription": "Search open directories hosting typography font families, TTF files, OTF fonts, and web font archives.",
+      "primaryKeywords": [
+        "fonts open directory ttf",
+        "font family zip index of",
+        "otf fonts open server",
+        "free web fonts directory",
+        "fonts ttf otf woff2 open directory",
+        "typography font packs open directory",
+        "designer fonts collection direct download",
+        "monospaced coding fonts open directory",
+        "commercial free fonts open directory"
+      ],
+      "lsiKeywords": [
+        "typography fonts zip index",
+        "display font ttf open directory",
+        "font archive zip download",
+        "sans serif font index of",
+        "intitle index of fonts ttf otf woff",
+        "inurl typography fonts parent directory",
+        "web fonts package direct download",
+        "calligraphy script fonts open directory",
+        "open source font foundry index"
+      ],
+      "targetExtensions": [
+        ".ttf",
+        ".otf",
+        ".woff",
+        ".woff2",
+        ".zip"
+      ],
+      "dorkExample": "intext:\"fonts\" (ttf|otf|woff) intitle:\"index.of./\"",
+      "searchQuery": "fonts family ttf zip",
+      "summary": "Find open font directory servers containing TTF, OTF, and web font family archives.",
+      "customIntro": "UI/UX designers and typographers search for complete font families in TTF, OTF, and WOFF formats. Open font directories host structured font archives.",
+      "customDorkGuide": "SearchPro links font extensions (.ttf, .otf, .woff2, .zip) with index of font directory paths.",
+      "customFaqs": [
+        {
+          "q": "How to find TTF and OTF font open directories?",
+          "a": "Choose Pictures/Software in SearchPro and search font family names with font extension filters."
+        }
+      ]
+    },
+    {
+      "id": "cheatsheets-dev-pdf-open-directory",
+      "category": "text",
+      "slug": "cheatsheets-dev-pdf-open-directory.html",
+      "h1": "Developer Cheatsheets & Quick Reference PDF Directory",
+      "title": "Developer Cheatsheets & Quick Reference PDF Directory | SearchPro",
+      "metaDescription": "Find open directory archives hosting developer cheatsheets, command reference PDFs, and programming syntax guides.",
+      "primaryKeywords": [
+        "cheat sheet pdf open directory",
+        "developer cheatsheets",
+        "programming syntax quick reference pdf",
+        "dev cheatsheets index of",
+        "developer cheatsheets pdf open directory",
+        "git docker kubernetes cheatsheet pdf",
+        "programming quick reference cards directory",
+        "linux command line cheatsheet pdf",
+        "python regex sql cheatsheets drive"
+      ],
+      "lsiKeywords": [
+        "git cheatsheet pdf open index",
+        "sql cheat sheet pdf google drive",
+        "docker command reference pdf",
+        "linux cheat sheet index",
+        "intitle index of cheatsheets pdf",
+        "inurl quick reference programming pdf",
+        "developer cheat sheets shared drive",
+        "sysadmin cheat sheets collection",
+        "devops commands reference cards"
+      ],
+      "targetExtensions": [
+        ".pdf",
+        ".png",
+        ".md"
+      ],
+      "dorkExample": "intext:\"cheatsheet\" (pdf|png) intitle:\"index.of./\"",
+      "searchQuery": "developer cheat sheet pdf",
+      "summary": "Locate developer cheatsheets, quick command references, and programming syntax PDFs.",
+      "customIntro": "Developers and system admins use quick reference cheatsheets for Git, Docker, SQL, and Linux commands.",
+      "customDorkGuide": "SearchPro builds search queries matching cheatsheet PDFs and quick reference files.",
+      "customFaqs": [
+        {
+          "q": "How to find developer cheat sheets in PDF format?",
+          "a": "Use the Text category in SearchPro and type your technology name alongside cheatsheet keywords."
+        }
+      ]
+    },
+    {
+      "id": "soundtracks-flac-mp3-open-directory",
+      "category": "audio",
+      "slug": "soundtracks-flac-mp3-open-directory.html",
+      "h1": "Movie & Video Game Soundtracks (OST) Open Directory",
+      "title": "Movie & Video Game Soundtracks (OST) Open Directory | SearchPro",
+      "metaDescription": "Find open directory servers hosting original soundtracks (OST), film scores, game audio, and lossless FLAC music.",
+      "primaryKeywords": [
+        "movie OST flac open directory",
+        "game soundtrack index of",
+        "video game ost flac download",
+        "original soundtrack open server",
+        "original soundtrack ost open directory",
+        "video game soundtracks flac directory",
+        "movie score soundtracks open directory",
+        "anime ost lossless audio directory",
+        "film background score direct download"
+      ],
+      "lsiKeywords": [
+        "anime OST flac open directory",
+        "film score discography index",
+        "lossless game music open server",
+        "soundtrack mp3 album index",
+        "intitle index of soundtrack ost flac",
+        "inurl video game music ost mp3",
+        "orchestral film scores open directory",
+        "lossless soundtrack discography download",
+        "cinematic music raw server index"
+      ],
+      "targetExtensions": [
+        ".flac",
+        ".mp3",
+        ".wav"
+      ],
+      "dorkExample": "intext:\"OST\" (flac|mp3) intitle:\"index.of./soundtrack\"",
+      "searchQuery": "game ost soundtrack flac",
+      "summary": "Discover open directories containing original film scores, video game soundtracks (OST), and lossless audio albums.",
+      "customIntro": "Film score collectors and gaming fans appreciate high-fidelity original soundtracks (OST). Open soundtrack directories store complete score albums.",
+      "customDorkGuide": "SearchPro targets soundtrack folder paths with lossless audio extension filters.",
+      "customFaqs": [
+        {
+          "q": "How to find FLAC video game soundtracks?",
+          "a": "Select Audio in SearchPro and enter the game title with OST to target soundtrack server folders."
+        }
+      ]
+    },
+    {
+      "id": "file-chef-alternative-search-engine",
+      "category": "software",
+      "slug": "file-chef-alternative-search-engine.html",
+      "h1": "FileChef Alternative & Open Directory Search Engine",
+      "title": "FileChef Alternative & Open Directory Search Engine | SearchPro",
+      "metaDescription": "Best FileChef alternative search engine. Search open directories, public Google Drive files, and cloud storage dorks with SearchPro.",
+      "primaryKeywords": [
+        "file chef alternative",
+        "websites like filechef",
+        "file chef search engine",
+        "open directory finder like filechef",
+        "file chef alternative 2026",
+        "websites like file chef for files",
+        "filechef open directory replacement",
+        "modern filechef clone with more filters",
+        "file chef google drive alternative"
+      ],
+      "lsiKeywords": [
+        "filechef google dork tool",
+        "file chef direct download finder",
+        "open directory search engine alternative",
+        "file chef replacement",
+        "best open directory search tools",
+        "google dork file search websites",
+        "clean ad free file chef alternative",
+        "instant open directory discovery tool",
+        "multi engine open directory searcher"
+      ],
+      "targetExtensions": [
+        "intitle:\"index of\"",
+        "ext:",
+        "site:"
+      ],
+      "dorkExample": "intext:\"filechef alternative\" intitle:\"index of\"",
+      "searchQuery": "file chef alternative",
+      "summary": "SearchPro is the premier client-side FileChef alternative for open directory searching and cloud file indexing.",
+      "customIntro": "FileChef was a famous Google Dork search interface. SearchPro serves as the modern, 100% free, client-side FileChef alternative with zero popup ads or forced registrations.",
+      "customDorkGuide": "Select your file category in SearchPro to generate optimized Google Dork queries targeting open web directory indexes.",
+      "customFaqs": [
+        {
+          "q": "Why is SearchPro the best FileChef alternative?",
+          "a": "SearchPro runs 100% in your browser without backend tracking, provides dynamic filter categories (4K Video, FLAC, eBooks, ROMs), and has zero ad popups."
+        }
+      ]
+    },
+    {
+      "id": "lumpy-soft-open-directory-alternative",
+      "category": "software",
+      "slug": "lumpy-soft-open-directory-alternative.html",
+      "h1": "Lumpy Soft Open Directory Finder Alternative",
+      "title": "Lumpy Soft Open Directory Finder Alternative | SearchPro",
+      "metaDescription": "Discover SearchPro as the top Lumpy Soft open directory finder alternative. Search public servers for movies, music, and software.",
+      "primaryKeywords": [
+        "lumpy soft alternative",
+        "lumpy open directory search",
+        "lumpy soft google drive",
+        "websites like lumpy soft",
+        "lumpy soft alternative open directory",
+        "sites like lumpy soft search",
+        "lumpy soft open directory search replacement",
+        "free alternative to lumpy soft",
+        "advanced open directory web scanner"
+      ],
+      "lsiKeywords": [
+        "lumpy search engine alternative",
+        "palined open directory finder",
+        "eye open directory alternative",
+        "mamont file search engine",
+        "lumpy soft open directory tool review",
+        "direct download open directory aggregators",
+        "client side alternative to lumpy soft",
+        "opendir search tools list",
+        "raw web server search alternatives"
+      ],
+      "targetExtensions": [
+        "intitle:\"index of\"",
+        "ext:",
+        "intext:"
+      ],
+      "dorkExample": "intitle:\"index of\" \"lumpy alternative\"",
+      "searchQuery": "lumpy soft alternative",
+      "summary": "SearchPro is a fast, modern alternative to legacy open directory tools like Lumpy Soft, Palined, and Eye Open Directory.",
+      "customIntro": "Legacy directory tools like Lumpy Soft and Palined pioneered open web indexing. SearchPro modernizes this experience with responsive mobile design, Core Web Vitals optimization, and real-time query builders.",
+      "customDorkGuide": "SearchPro dynamically pairs open folder index parameters with negative keywords to eliminate dead or broken links.",
+      "customFaqs": [
+        {
+          "q": "How does SearchPro compare to Lumpy Soft?",
+          "a": "SearchPro offers active schema markup, instant copy buttons, 6 topical category siloes, and zero server logging."
+        }
+      ]
+    },
+    {
+      "id": "google-drive-search-engine-alternatives",
+      "category": "text",
+      "slug": "google-drive-search-engine-alternatives.html",
+      "h1": "Best Public Google Drive Search Engines & Alternatives List",
+      "title": "Best Public Google Drive Search Engines & Alternatives List | SearchPro",
+      "metaDescription": "List of the best public Google Drive search engines, cloud directory finders, and drive link search tools in 2026.",
+      "primaryKeywords": [
+        "google drive search engine online",
+        "best google drive search tools",
+        "search public google drive shared links",
+        "gdrive search engine list",
+        "best google drive search engines 2026",
+        "google drive search tool alternatives",
+        "dedicated gdrive search engine websites",
+        "search public google drive files free",
+        "find files on google drive without links"
+      ],
+      "lsiKeywords": [
+        "search inside shared drive link",
+        "find public google drive folders",
+        "google drive file finder tool",
+        "cloud drive search engine 2026",
+        "how to search anyone's google drive",
+        "public google drive crawlers comparison",
+        "google drive link finding strategies",
+        "cloud drive file search alternatives",
+        "gdrive shared folder indexing sites"
+      ],
+      "targetExtensions": [
+        "site:drive.google.com",
+        "site:docs.google.com"
+      ],
+      "dorkExample": "site:drive.google.com/drive/folders/",
+      "searchQuery": "google drive search tools",
+      "summary": "Comprehensive guide and overview of public Google Drive search engine tools and cloud link indexing strategies.",
+      "customIntro": "Locating publicly shared Google Drive folders requires specialized search query builders. SearchPro leads the list of public Google Drive search tools.",
+      "customDorkGuide": "SearchPro targets `site:drive.google.com/drive/folders/` combined with your desired file type filters.",
+      "customFaqs": [
+        {
+          "q": "How to search public Google Drive shared links?",
+          "a": "Enter your keyword in SearchPro and select your category to construct direct Google Drive dork URLs."
+        }
+      ]
+    },
+    {
+      "id": "osint-open-directory-search-tools-list",
+      "category": "software",
+      "slug": "osint-open-directory-search-tools-list.html",
+      "h1": "OSINT File Search Tools & Open Directory Scanner List",
+      "title": "OSINT File Search Tools & Open Directory Scanner List | SearchPro",
+      "metaDescription": "Curated list of top OSINT file search tools, open directory scanners, and passive web asset discovery utilities.",
+      "primaryKeywords": [
+        "osint file search tools list",
+        "best open directory search engines",
+        "osint dorking tools online",
+        "passive web directory scanner",
+        "osint open directory search tools",
+        "open source intelligence file gathering",
+        "reconnaissance tools for open servers",
+        "cybersecurity open directory scanners",
+        "passive osint file discovery techniques"
+      ],
+      "lsiKeywords": [
+        "osint reconnaissance search engines",
+        "google dorks for osint",
+        "open directory search tools 2026",
+        "web asset discovery dorks",
+        "osint framework open directory category",
+        "investigative file search operators",
+        "ethical reconnaissance file harvesting",
+        "shodan fofa open server discovery",
+        "threat intelligence exposed files search"
+      ],
+      "targetExtensions": [
+        "intext:",
+        "intitle:",
+        "inurl:",
+        "site:"
+      ],
+      "dorkExample": "site:search.sturio.io intitle:\"index of\"",
+      "searchQuery": "osint file search tools",
+      "summary": "Curated directory of OSINT file search engines, passive directory crawlers, and dork query builders.",
+      "customIntro": "Open Source Intelligence (OSINT) researchers and cybersecurity analysts rely on passive directory scanners and search query builders to discover exposed assets without active port scanning.",
+      "customDorkGuide": "SearchPro formats complex Google search operators for passive OSINT file reconnaissance.",
+      "customFaqs": [
+        {
+          "q": "Why is passive OSINT directory scanning safer than active scanning?",
+          "a": "Passive scanning queries search engine indexes without sending direct network packets to target host servers."
+        }
+      ]
+    },
+    {
+      "id": "searchpro-open-directory-engine",
+      "category": "software",
+      "slug": "searchpro-open-directory-engine.html",
+      "h1": "SearchPro - The Official Open Directory & Cloud Search Engine",
+      "title": "SearchPro - The Official Open Directory & Cloud Search Engine | search.sturio.io",
+      "metaDescription": "Official portal for SearchPro (search.sturio.io). The premier open directory finder, public Google Drive search tool, and OSINT dork engine.",
+      "primaryKeywords": [
+        "searchpro engine",
+        "search.sturio.io open directory finder",
+        "searchpro search engine",
+        "official searchpro tool",
+        "searchpro open directory engine online",
+        "about searchpro file search engine",
+        "client side google dork file searcher",
+        "sturio searchpro file finder tool",
+        "zero logging open directory engine"
+      ],
+      "lsiKeywords": [
+        "searchpro google dork finder",
+        "search.sturio.io file search",
+        "searchpro public drive search",
+        "searchpro OSINT tool",
+        "high speed file discovery engine",
+        "privacy first open directory crawler",
+        "searchpro vs traditional search engines",
+        "custom open directory search algorithms",
+        "lofedev searchpro documentation"
+      ],
+      "targetExtensions": [
+        "site:search.sturio.io",
+        "intitle:\"index of\""
+      ],
+      "dorkExample": "site:search.sturio.io",
+      "searchQuery": "searchpro engine search.sturio.io",
+      "summary": "SearchPro (search.sturio.io) is your privacy-focused, zero-install open directory finder and Google Drive search engine.",
+      "customIntro": "Welcome to the official SearchPro portal hosted at `search.sturio.io`. SearchPro provides lightning-fast, client-side Google dork automation for video, audio, ebooks, software, and cloud storage.",
+      "customDorkGuide": "Launch SearchPro to build precision Google Dork search links for any file type or cloud drive.",
+      "customFaqs": [
+        {
+          "q": "What is SearchPro (search.sturio.io)?",
+          "a": "SearchPro is a 100% free, client-side open directory finder and public cloud search engine hosted at search.sturio.io."
+        }
+      ]
+    }
+  ],
+  "category_keywords": {
+    "video": [
+      "4k movies",
+      "1080p bluray remux",
+      "mkv movie files",
+      "mp4 streaming video",
+      "anime series",
+      "foreign cinema",
+      "documentary films",
+      "tv series boxset",
+      "stock footage 4k",
+      "b roll video",
+      "hdr10 hevc",
+      "h265 10bit",
+      "direct movie download",
+      "open directory video",
+      "raw video stream",
+      "film archives"
+    ],
+    "text": [
+      "pdf books",
+      "college textbooks",
+      "academic research papers",
+      "scientific journals",
+      "programming ebooks",
+      "technical documentation",
+      "whitepapers",
+      "dissertations",
+      "epub digital books",
+      "mobi kindle books",
+      "dorks cheat sheet",
+      "cheat sheets pdf",
+      "notion templates",
+      "obsidian vaults",
+      "historical manuscripts",
+      "medical manuals"
+    ],
+    "software": [
+      "iso disk images",
+      "windows utilities",
+      "linux distributions",
+      "mac dmg apps",
+      "android apk mod",
+      "retro roms emulators",
+      "developer tools",
+      "sysadmin utilities",
+      "portable applications",
+      "open source binaries",
+      "cybersecurity kali tools",
+      "3d modeling cad software",
+      "command line utilities",
+      "github repositories"
+    ],
+    "audio": [
+      "flac lossless music",
+      "24bit studio master",
+      "wav sample packs",
+      "audiobooks m4b",
+      "mp3 discographies",
+      "original soundtrack ost",
+      "vst instruments plugins",
+      "drum kits samples",
+      "foley sound effects",
+      "podcast archives",
+      "audiophile recordings",
+      "acoustic tracks",
+      "classical music flac",
+      "lofi stems"
+    ],
+    "compressed": [
+      "zip archives",
+      "rar multi volume",
+      "7z ultra compression",
+      "tar gz linux backups",
+      "iso archives",
+      "google drive shared dumps",
+      "mega nz cloud folders",
+      "dropbox shared folders",
+      "mediafire collections",
+      "onedrive public folders",
+      "archive org backups",
+      "raw server file dumps",
+      "ftp server archives"
+    ],
+    "pictures": [
+      "4k desktop wallpapers",
+      "raw photographs nef cr2",
+      "3d models stl obj",
+      "vector illustrations svg",
+      "designer fonts ttf otf",
+      "comics cbz cbr",
+      "manga scanlations",
+      "texture packs 8k",
+      "photoshop psd templates",
+      "blender 3d assets",
+      "cad technical drawings"
+    ],
+    "osint_recon": [
+      "open directory crawler",
+      "google dork generator",
+      "ghdb hacking database",
+      "raw apache directory index",
+      "nginx autoindex search",
+      "parent directory exploration",
+      "unprotected web server files",
+      "passive file reconnaissance",
+      "domain dorking",
+      "crt sh subdomains index",
+      "public cloud storage dorks",
+      "s3 bucket file search"
+    ]
+  },
+  "dork_search_syntax": [
+    {
+      "operator": "intitle:\"index of\"",
+      "purpose": "Identifies raw web server directory listings (Apache, Nginx, LiteSpeed, IIS)"
+    },
+    {
+      "operator": "site:drive.google.com",
+      "purpose": "Restricts search results to public Google Drive folders and shared files"
+    },
+    {
+      "operator": "site:mega.nz",
+      "purpose": "Discovers public Mega.nz cloud storage files and folder links"
+    },
+    {
+      "operator": "filetype:[ext]",
+      "purpose": "Forces search engines to return only specific file formats (e.g. filetype:pdf)"
+    },
+    {
+      "operator": "-inurl:(html|php|asp)",
+      "purpose": "Negative filter that eliminates landing pages, paywalls, and spam sites"
+    },
+    {
+      "operator": "intext:\"parent directory\"",
+      "purpose": "Matches breadcrumb navigation found on authentic open server directories"
+    },
+    {
+      "operator": "\"last modified\" \"size\"",
+      "purpose": "Filters for server metadata tables generated by automated directory indexing"
+    },
+    {
+      "operator": "inurl:ftp://",
+      "purpose": "Discovers active anonymous FTP server directories indexable by search engines"
+    }
+  ]
+}
